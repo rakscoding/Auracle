@@ -1,0 +1,141 @@
+Activity Name,Duration (minutes),Calories Burnt,Time of Day,Activity Type,Calories per Minute,Intensity
+Hiking,23,859,Evening,Strength,37.35,High
+Kayaking,37,854,Morning,Endurance,23.05,Medium
+Pilates,95,532,Morning,Cardio,5.59,Low
+Skating,111,765,Night,Strength,6.90,Medium
+Yoga,45,200,Afternoon,Flexibility,4.44,Low
+Swimming,40,350,Morning,Cardio,8.75,Medium
+Tennis,50,450,Evening,Cardio,9.00,Medium
+Weightlifting,60,300,Afternoon,Strength,5.00,Low
+High-Intensity Workout,35,600,Morning,Cardio,17.14,High
+Dancing,75,450,Night,Cardio,6.00,Medium
+Running,30,300,Morning,Cardio,10.00,Medium
+Cycling,45,400,Afternoon,Cardio,8.89,Medium
+Rock Climbing,60,550,Evening,Strength,9.17,Medium
+Boxing,50,650,Night,Cardio,13.00,High
+Rowing,40,420,Afternoon,Endurance,10.50,Medium
+Zumba,55,480,Morning,Cardio,8.73,Medium
+Tai Chi,60,200,Evening,Flexibility,3.33,Low
+Aerobics,35,320,Morning,Cardio,9.14,Medium
+Basketball,90,700,Afternoon,Cardio,7.78,High
+Soccer,75,650,Evening,Cardio,8.67,High
+Skiing,120,900,Morning,Endurance,7.50,High
+Surfing,90,750,Afternoon,Balance,8.33,High
+Barre Workout,60,400,Morning,Flexibility,6.67,Medium
+Stand-Up Paddleboarding,75,500,Evening,Balance,6.67,Medium
+Elliptical,45,380,Afternoon,Cardio,8.44,Medium
+Horse Riding,70,450,Morning,Balance,6.43,Medium
+Jump Rope,20,250,Evening,Cardio,12.50,High
+Hiking,90,800,Morning,Endurance,8.89,High
+Table Tennis,50,300,Night,Cardio,6.00,Medium
+Badminton,60,450,Afternoon,Cardio,7.50,Medium
+Power Yoga,50,250,Morning,Flexibility,5.00,Low
+Crossfit,45,700,Afternoon,Strength,15.56,High
+Stair Climbing,30,400,Morning,Endurance,13.33,High
+Golf,120,600,Evening,Balance,5.00,Low
+Mountain Biking,90,850,Afternoon,Endurance,9.44,High
+Martial Arts,60,650,Night,Strength,10.83,Medium
+Stretching,20,100,Morning,Flexibility,5.00,Low
+Spinning,40,500,Afternoon,Cardio,12.50,High
+Rowing Machine,30,300,Morning,Endurance,10.00,Medium
+Rock Wall Training,50,550,Evening,Strength,11.00,Medium
+Archery,60,300,Afternoon,Balance,5.00,Low
+Slacklining,45,200,Morning,Balance,4.44,Low
+Obstacle Course,70,800,Afternoon,Cardio,11.43,High
+Kickboxing,55,700,Night,Cardio,12.73,High
+Snowboarding,120,950,Morning,Endurance,7.92,High
+Aqua Aerobics,60,400,Evening,Flexibility,6.67,Medium
+Rollerblading,90,750,Afternoon,Cardio,8.33,High
+Kiteboarding,75,850,Morning,Endurance,11.33,High
+Frisbee,60,350,Evening,Cardio,5.83,Medium
+Paddle Boating,80,500,Afternoon,Balance,6.25,Medium
+Ice Skating,45,600,Afternoon,Balance,13.33,High
+Parkour,60,750,Morning,Cardio,12.50,High
+Rowboat Fishing,90,400,Evening,Balance,4.44,Low
+Sprinting,20,350,Morning,Cardio,17.50,High
+Sled Pulling,45,650,Afternoon,Strength,14.44,High
+Trampoline Workout,50,500,Evening,Cardio,10.00,Medium
+Judo,60,700,Night,Strength,11.67,Medium
+Tai Bo,55,650,Morning,Cardio,11.82,High
+Water Polo,80,750,Evening,Cardio,9.38,High
+Handball,75,700,Afternoon,Cardio,9.33,High
+Speed Walking,60,400,Morning,Endurance,6.67,Medium
+Sand Running,45,650,Evening,Cardio,14.44,High
+Tug-of-War,30,350,Afternoon,Strength,11.67,Medium
+Frisbee Golf,60,300,Morning,Balance,5.00,Low
+Long Jump Training,40,450,Evening,Strength,11.25,Medium
+Circuit Training,50,700,Afternoon,Cardio,14.00,High
+Pole Dancing,75,500,Night,Flexibility,6.67,Medium
+Roller Skiing,70,850,Morning,Endurance,12.14,High
+Paddle Surfing,60,500,Evening,Balance,8.33,Medium
+Urban Walking Tour,90,400,Afternoon,Endurance,4.44,Low
+Cricket,90,600,Afternoon,Cardio,6.67,Medium
+Baseball,60,450,Evening,Cardio,7.50,Medium
+Archery Practice,45,250,Morning,Balance,5.56,Low
+Rugby,80,750,Afternoon,Strength,9.38,Medium
+Lacrosse,70,700,Evening,Cardio,10.00,High
+American Football,60,650,Morning,Strength,10.83,Medium
+Squash,45,500,Afternoon,Cardio,11.11,High
+Water Skiing,50,600,Evening,Balance,12.00,High
+Gymnastics,60,500,Night,Flexibility,8.33,Medium
+Wrestling,50,700,Morning,Strength,14.00,High
+Dodgeball,30,350,Afternoon,Cardio,11.67,Medium
+Table Soccer (Foosball),60,200,Evening,Balance,3.33,Low
+Ice Hockey,90,850,Night,Cardio,9.44,High
+Bowling,60,300,Afternoon,Balance,5.00,Low
+Skateboarding,40,400,Morning,Balance,10.00,Medium
+Fencing,45,450,Evening,Strength,10.00,Medium
+Archery Tag,60,400,Afternoon,Cardio,6.67,Medium
+Beach Volleyball,70,600,Morning,Cardio,8.57,High
+Sprint Relays,30,450,Evening,Cardio,15.00,High
+Cheerleading,60,500,Afternoon,Flexibility,8.33,Medium
+Discus Throw Training,40,500,Morning,Strength,12.50,High
+Shot Put Training,50,550,Evening,Strength,11.00,High
+Rowing Competition,90,900,Afternoon,Endurance,10.00,High
+Cricket Nets Practice,60,400,Morning,Cardio,6.67,Medium
+Basketball Drills,45,500,Evening,Cardio,11.11,High
+Soccer Practice,90,700,Night,Cardio,7.78,High
+Ping Pong Tournaments,50,300,Afternoon,Balance,6.00,Low
+Badminton Doubles,60,450,Evening,Cardio,7.50,Medium
+Kayaking Rapids,80,900,Morning,Endurance,11.25,High
+Archery Shooting,50,400,Morning,Balance,8.00,Medium
+Ballet,60,350,Evening,Flexibility,5.83,Low
+Belly Dance,45,250,Night,Flexibility,5.56,Low
+Bouldering,70,700,Afternoon,Strength,10.00,Medium
+Boxing Drills,40,450,Morning,Strength,11.25,Medium
+Calisthenics,55,550,Evening,Strength,10.00,Medium
+Capoeira,60,600,Afternoon,Cardio,10.00,Medium
+Climbing Wall,75,800,Morning,Strength,10.67,Medium
+Cycling Sprints,40,500,Evening,Cardio,12.50,High
+Crossfit Training,30,450,Afternoon,Strength,15.00,High
+Darts,60,250,Night,Balance,4.17,Low
+Golf Swing Practice,50,200,Evening,Balance,4.00,Low
+Handball Drills,30,400,Morning,Cardio,13.33,High
+Hurdles,60,550,Afternoon,Strength,9.17,Medium
+Inline Skating,60,450,Evening,Cardio,7.50,Medium
+Javelin Throw Training,40,500,Morning,Strength,12.50,High
+Kayaking Touring,80,750,Afternoon,Endurance,9.38,High
+Lunge Workout,45,350,Evening,Strength,7.78,Medium
+Martial Arts Drills,50,650,Night,Strength,13.00,High
+Mountain Hiking,90,1000,Morning,Endurance,11.11,High
+Obstacle Run,75,600,Afternoon,Strength,8.00,Medium
+Paddleboard Yoga,60,400,Night,Flexibility,6.67,Medium
+Pilates Reformer,50,300,Evening,Flexibility,6.00,Low
+Plank Exercises,20,150,Morning,Strength,7.50,Low
+Rock Climbing (Indoor),60,500,Afternoon,Strength,8.33,Medium
+Roller Derby,90,850,Night,Cardio,9.44,High
+Running Drills,30,300,Morning,Cardio,10.00,Medium
+Sculpting Workout,40,300,Evening,Strength,7.50,Low
+Soccer Drills,60,500,Afternoon,Cardio,8.33,Medium
+Sparring,50,650,Evening,Strength,13.00,High
+Speed Skating,60,700,Morning,Cardio,11.67,High
+Squat Workout,35,250,Afternoon,Strength,7.14,Low
+Sprint Intervals,30,350,Morning,Cardio,11.67,High
+Strength Circuit,60,550,Night,Strength,9.17,Medium
+Tabata Training,30,450,Afternoon,Cardio,15.00,High
+Tennis Drills,60,450,Evening,Cardio,7.50,Medium
+Throwing Drills,45,500,Morning,Strength,11.11,Medium
+Ultimate Frisbee,70,650,Afternoon,Cardio,9.29,High
+Vinyasa Yoga,60,300,Evening,Flexibility,5.00,Low
+Walking Lunges,40,350,Morning,Strength,8.75,Medium
+Zumba Step,50,500,Afternoon,Cardio,10.00,Medium

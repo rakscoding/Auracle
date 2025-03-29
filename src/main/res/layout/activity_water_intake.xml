@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:padding="16dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Daily water requirement -->
+        <TextView
+            android:id="@+id/tvDailyWaterRequirement"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/daily_water_requirement"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Current water intake -->
+        <TextView
+            android:id="@+id/tvCurrentIntake"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/current_intake"
+            android:textSize="16sp"
+            app:layout_constraintTop_toBottomOf="@id/tvDailyWaterRequirement"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Water input -->
+        <EditText
+            android:id="@+id/etWaterIntake"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="@string/enter_water_intake"
+            android:inputType="numberDecimal"
+            android:padding="16dp"
+            app:layout_constraintTop_toBottomOf="@id/tvCurrentIntake"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Submit button -->
+        <Button
+            android:id="@+id/btnSubmitWater"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/submit"
+            app:layout_constraintTop_toBottomOf="@id/etWaterIntake"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Goal input -->
+        <EditText
+            android:id="@+id/etWaterGoal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="@string/enter_water_goal"
+            android:inputType="numberDecimal"
+            android:padding="16dp"
+            app:layout_constraintTop_toBottomOf="@id/btnSubmitWater"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Set goal button -->
+        <Button
+            android:id="@+id/btnSetGoal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/set_water_goal"
+            app:layout_constraintTop_toBottomOf="@id/etWaterGoal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Water intake recommendation -->
+        <TextView
+            android:id="@+id/tvRecommendation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textSize="16sp"
+            android:padding="16dp"
+            android:background="#F5F5F5"
+            android:textColor="#000000"
+            app:layout_constraintTop_toBottomOf="@id/btnSetGoal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Hydration tip -->
+        <TextView
+            android:id="@+id/tvHydrationTip"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="💧 Tip: Drink water regularly"
+            android:textSize="16sp"
+            android:padding="16dp"
+            android:background="#F5F5F5"
+            android:textColor="#000000"
+            app:layout_constraintTop_toBottomOf="@id/tvRecommendation"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

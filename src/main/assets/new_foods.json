@@ -1,0 +1,1202 @@
+[
+ {
+   "Food Name": "Spinach Salad",
+   "Serving Size": 180,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Fruit Smoothie",
+   "Serving Size": 200,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Grilled Vegetables",
+   "Serving Size": 210,
+   "Calories": 180
+ },
+ {
+   "Food Name": "Cucumber Salad",
+   "Serving Size": 150,
+   "Calories": 100
+ },
+ {
+   "Food Name": "Vegetable Soup",
+   "Serving Size": 250,
+   "Calories": 190
+ },
+ {
+   "Food Name": "Grilled Chicken Breast",
+   "Serving Size": 250,
+   "Calories": 370
+ },
+ {
+   "Food Name": "Paneer Tikka",
+   "Serving Size": 220,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Chicken Salad",
+   "Serving Size": 200,
+   "Calories": 310
+ },
+ {
+   "Food Name": "Tuna Sandwich",
+   "Serving Size": 240,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Egg Whites",
+   "Serving Size": 180,
+   "Calories": 300
+ },
+ {
+   "Food Name": "Sambar with Rice",
+   "Serving Size": 300,
+   "Calories": 280
+ },
+ {
+   "Food Name": "Vegetable Stir Fry",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Lentil Soup",
+   "Serving Size": 200,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Quinoa Bowl",
+   "Serving Size": 220,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Oats Porridge",
+   "Serving Size": 250,
+   "Calories": 200
+ },
+ {
+   "Food Name": "Chocolate Cake",
+   "Serving Size": 200,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Pasta",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "French Fries",
+   "Serving Size": 250,
+   "Calories": 450
+ },
+ {
+   "Food Name": "Garlic Bread",
+   "Serving Size": 200,
+   "Calories": 420
+ },
+ {
+   "Food Name": "Rice Bowl",
+   "Serving Size": 280,
+   "Calories": 400
+ },
+ {
+   "Food Name": "Spinach Soup",
+   "Serving Size": 200,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Mixed Green Salad",
+   "Serving Size": 180,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Vegetable Broth",
+   "Serving Size": 250,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Cabbage Stir Fry",
+   "Serving Size": 200,
+   "Calories": 170
+ },
+ {
+   "Food Name": "Carrot Raita",
+   "Serving Size": 220,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Grilled Salmon",
+   "Serving Size": 240,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Boiled Eggs",
+   "Serving Size": 150,
+   "Calories": 300
+ },
+ {
+   "Food Name": "Paneer Bhurji",
+   "Serving Size": 200,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Chicken Skewers",
+   "Serving Size": 250,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Turkey Wrap",
+   "Serving Size": 230,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Chickpea Salad",
+   "Serving Size": 200,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Brown Rice & Vegetables",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Pumpkin Curry",
+   "Serving Size": 240,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Sweet Potato Mash",
+   "Serving Size": 200,
+   "Calories": 200
+ },
+ {
+   "Food Name": "Lentil Dal",
+   "Serving Size": 250,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Banana Pancakes",
+   "Serving Size": 200,
+   "Calories": 480
+ },
+ {
+   "Food Name": "Vegetable Pasta",
+   "Serving Size": 300,
+   "Calories": 510
+ },
+ {
+   "Food Name": "Cheesy Nachos",
+   "Serving Size": 250,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Mashed Potatoes",
+   "Serving Size": 240,
+   "Calories": 450
+ },
+ {
+   "Food Name": "Chocolate Muffin",
+   "Serving Size": 220,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Cucumber & Tomato Salad",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Roasted Vegetables",
+   "Serving Size": 220,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Clear Soup",
+   "Serving Size": 250,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Beetroot Salad",
+   "Serving Size": 200,
+   "Calories": 160
+ },
+ {
+   "Food Name": "Zucchini Noodles",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Grilled Tuna Steak",
+   "Serving Size": 250,
+   "Calories": 360
+ },
+ {
+   "Food Name": "Egg Curry",
+   "Serving Size": 240,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Chicken Meatballs",
+   "Serving Size": 200,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Paneer Wrap",
+   "Serving Size": 230,
+   "Calories": 310
+ },
+ {
+   "Food Name": "Shrimp Stir Fry",
+   "Serving Size": 220,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Quinoa & Spinach",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Sprout Salad",
+   "Serving Size": 200,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Whole Wheat Khichdi",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Vegetable Stuffed Paratha",
+   "Serving Size": 230,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Oatmeal Bowl",
+   "Serving Size": 200,
+   "Calories": 200
+ },
+ {
+   "Food Name": "Veggie Pizza",
+   "Serving Size": 250,
+   "Calories": 490
+ },
+ {
+   "Food Name": "Butter Chicken Curry",
+   "Serving Size": 250,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Rice & Dal",
+   "Serving Size": 250,
+   "Calories": 460
+ },
+ {
+   "Food Name": "Vegetable Fried Rice",
+   "Serving Size": 300,
+   "Calories": 530
+ },
+ {
+   "Food Name": "Creamy Pasta",
+   "Serving Size": 250,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Tomato Cucumber Salad",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Steamed Broccoli",
+   "Serving Size": 150,
+   "Calories": 100
+ },
+ {
+   "Food Name": "Veggie Bowl",
+   "Serving Size": 230,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Carrot Soup",
+   "Serving Size": 250,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Roasted Cauliflower",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Tofu Stir Fry",
+   "Serving Size": 240,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Chicken Kebabs",
+   "Serving Size": 250,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Boiled Chicken Breast",
+   "Serving Size": 220,
+   "Calories": 300
+ },
+ {
+   "Food Name": "Paneer Tikka Masala",
+   "Serving Size": 250,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Grilled Mutton",
+   "Serving Size": 230,
+   "Calories": 360
+ },
+ {
+   "Food Name": "Lentil Khichdi",
+   "Serving Size": 240,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Whole Wheat Upma",
+   "Serving Size": 200,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Vegetable Stew",
+   "Serving Size": 250,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Spinach Dal",
+   "Serving Size": 230,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Mixed Sprouts Curry",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Veggie Burger",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Fettuccine Alfredo",
+   "Serving Size": 300,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Chocolate Brownie",
+   "Serving Size": 200,
+   "Calories": 480
+ },
+ {
+   "Food Name": "Garlic Butter Naan",
+   "Serving Size": 200,
+   "Calories": 420
+ },
+ {
+   "Food Name": "Veggie Quesadilla",
+   "Serving Size": 250,
+   "Calories": 450
+ },
+ {
+   "Food Name": "Quinoa Salad",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Steamed Asparagus",
+   "Serving Size": 150,
+   "Calories": 110
+ },
+ {
+   "Food Name": "Grilled Zucchini",
+   "Serving Size": 180,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Avocado Salad",
+   "Serving Size": 200,
+   "Calories": 160
+ },
+ {
+   "Food Name": "Vegetable Clear Soup",
+   "Serving Size": 250,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Grilled Turkey Breast",
+   "Serving Size": 250,
+   "Calories": 370
+ },
+ {
+   "Food Name": "Boiled Fish Fillet",
+   "Serving Size": 230,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Mutton Keema",
+   "Serving Size": 250,
+   "Calories": 360
+ },
+ {
+   "Food Name": "Paneer Cutlet",
+   "Serving Size": 200,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Chicken Stir Fry",
+   "Serving Size": 240,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Mixed Bean Salad",
+   "Serving Size": 200,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Whole Grain Sandwich",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Pumpkin & Lentil Soup",
+   "Serving Size": 200,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Vegetable Jowar Khichdi",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Ragi Roti with Sabzi",
+   "Serving Size": 200,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Whole Wheat Pancakes",
+   "Serving Size": 200,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Chole Bhature",
+   "Serving Size": 300,
+   "Calories": 550
+ },
+ {
+   "Food Name": "Veg Fried Rice",
+   "Serving Size": 250,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Creamy Risotto",
+   "Serving Size": 300,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Butter Garlic Noodles",
+   "Serving Size": 250,
+   "Calories": 490
+ },
+ {
+   "Food Name": "Green Apple Salad",
+   "Serving Size": 220,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Steamed Carrots",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Tomato & Basil Soup",
+   "Serving Size": 250,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Baked Cauliflower",
+   "Serving Size": 230,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Cucumber Mint Salad",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Tofu Bhurji",
+   "Serving Size": 250,
+   "Calories": 310
+ },
+ {
+   "Food Name": "Boiled Eggs & Spinach",
+   "Serving Size": 220,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Fish Tikka",
+   "Serving Size": 240,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Chicken Curry with Rice",
+   "Serving Size": 300,
+   "Calories": 360
+ },
+ {
+   "Food Name": "Shrimp Pasta",
+   "Serving Size": 250,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Moong Dal Salad",
+   "Serving Size": 200,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Quinoa Bowl with Vegetables",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Vegetable Millet Upma",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Palak Chilla",
+   "Serving Size": 200,
+   "Calories": 200
+ },
+ {
+   "Food Name": "Lauki Sabzi with Rice",
+   "Serving Size": 300,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Paneer Butter Masala",
+   "Serving Size": 250,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Cheese Pizza",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Garlic Rice",
+   "Serving Size": 250,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Vegetable Noodles",
+   "Serving Size": 300,
+   "Calories": 510
+ },
+ {
+   "Food Name": "Pancakes with Maple Syrup",
+   "Serving Size": 200,
+   "Calories": 470
+ },
+ {
+   "Food Name": "Avocado Toast",
+   "Serving Size": 200,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Spinach Smoothie",
+   "Serving Size": 250,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Roasted Pumpkin",
+   "Serving Size": 220,
+   "Calories": 160
+ },
+ {
+   "Food Name": "Broccoli Stir Fry",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Zucchini & Tomato Gratin",
+   "Serving Size": 250,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Paneer Skewers",
+   "Serving Size": 250,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Chicken Caesar Wrap",
+   "Serving Size": 240,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Grilled Lamb Chops",
+   "Serving Size": 300,
+   "Calories": 370
+ },
+ {
+   "Food Name": "Fish Curry with Rice",
+   "Serving Size": 300,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Baked Chicken Wings",
+   "Serving Size": 250,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Chickpea & Spinach Curry",
+   "Serving Size": 250,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Vegetable Ragi Khichdi",
+   "Serving Size": 300,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Masoor Dal Soup",
+   "Serving Size": 200,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Rajma with Rice",
+   "Serving Size": 300,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Beetroot Stir Fry",
+   "Serving Size": 220,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Cheese Garlic Bread",
+   "Serving Size": 250,
+   "Calories": 510
+ },
+ {
+   "Food Name": "Gulab Jamun",
+   "Serving Size": 200,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Vegetable Pulao",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Paneer Paratha",
+   "Serving Size": 250,
+   "Calories": 490
+ },
+ {
+   "Food Name": "Potato Wedges",
+   "Serving Size": 250,
+   "Calories": 450
+ },
+ {
+   "Food Name": "Green Tea",
+   "Serving Size": 200,
+   "Calories": 50
+ },
+ {
+   "Food Name": "Steamed Spinach",
+   "Serving Size": 150,
+   "Calories": 110
+ },
+ {
+   "Food Name": "Lettuce Wraps",
+   "Serving Size": 220,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Roasted Tomatoes",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Carrot & Apple Salad",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Egg Salad with Avocado",
+   "Serving Size": 250,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Grilled Turkey Sandwich",
+   "Serving Size": 240,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Chicken Thigh Roast",
+   "Serving Size": 250,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Salmon Sushi",
+   "Serving Size": 200,
+   "Calories": 300
+ },
+ {
+   "Food Name": "Paneer Bhurji with Roti",
+   "Serving Size": 250,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Ragi Porridge",
+   "Serving Size": 200,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Vegetable Methi Paratha",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Pumpkin Dal",
+   "Serving Size": 200,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Whole Wheat Pasta",
+   "Serving Size": 300,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Vegetable Poha",
+   "Serving Size": 250,
+   "Calories": 200
+ },
+ {
+   "Food Name": "Aloo Gobi with Roti",
+   "Serving Size": 300,
+   "Calories": 490
+ },
+ {
+   "Food Name": "Sweet Corn Soup",
+   "Serving Size": 250,
+   "Calories": 510
+ },
+ {
+   "Food Name": "Rice Kheer",
+   "Serving Size": 200,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Vegetable Hakka Noodles",
+   "Serving Size": 300,
+   "Calories": 530
+ },
+ {
+   "Food Name": "Garlic Potato Mash",
+   "Serving Size": 250,
+   "Calories": 450
+ },
+ {
+   "Food Name": "Greek Salad",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Vegetable Sticks with Hummus",
+   "Serving Size": 150,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Cucumber and Yogurt Dip",
+   "Serving Size": 200,
+   "Calories": 110
+ },
+ {
+   "Food Name": "Zucchini Stir Fry",
+   "Serving Size": 180,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Lentil & Spinach Soup",
+   "Serving Size": 250,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Chicken Biryani",
+   "Serving Size": 300,
+   "Calories": 400
+ },
+ {
+   "Food Name": "Tandoori Fish",
+   "Serving Size": 250,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Paneer Roll",
+   "Serving Size": 200,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Grilled Pork Chops",
+   "Serving Size": 300,
+   "Calories": 370
+ },
+ {
+   "Food Name": "Scrambled Eggs with Veggies",
+   "Serving Size": 220,
+   "Calories": 310
+ },
+ {
+   "Food Name": "Mixed Vegetable Curry",
+   "Serving Size": 250,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Cabbage Sabzi with Roti",
+   "Serving Size": 300,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Masala Oats",
+   "Serving Size": 250,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Vegetable Seviyan Upma",
+   "Serving Size": 250,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Spinach Chapati Roll",
+   "Serving Size": 200,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Baked Mac and Cheese",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Vegetable Lasagna",
+   "Serving Size": 300,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Stuffed Garlic Bread",
+   "Serving Size": 250,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Paneer Butter Kulcha",
+   "Serving Size": 250,
+   "Calories": 530
+ },
+ {
+   "Food Name": "French Toast",
+   "Serving Size": 200,
+   "Calories": 480
+ },
+ {
+   "Food Name": "Avocado and Tomato Salad",
+   "Serving Size": 200,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Steamed Green Beans",
+   "Serving Size": 150,
+   "Calories": 110
+ },
+ {
+   "Food Name": "Carrot Sticks with Dip",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Pumpkin Gratin",
+   "Serving Size": 250,
+   "Calories": 160
+ },
+ {
+   "Food Name": "Boiled Sweet Potatoes",
+   "Serving Size": 200,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Grilled Chicken Tenders",
+   "Serving Size": 240,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Boiled Egg Whites",
+   "Serving Size": 150,
+   "Calories": 300
+ },
+ {
+   "Food Name": "Paneer Bhurji with Spinach",
+   "Serving Size": 250,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Shrimp Cocktail",
+   "Serving Size": 200,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Lamb Curry",
+   "Serving Size": 300,
+   "Calories": 370
+ },
+ {
+   "Food Name": "Brown Rice Khichdi",
+   "Serving Size": 250,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Vegetable Dalia",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Pumpkin Soup",
+   "Serving Size": 200,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Multigrain Roti with Sabzi",
+   "Serving Size": 300,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Vegetable Barley Risotto",
+   "Serving Size": 250,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Veggie Spring Rolls",
+   "Serving Size": 250,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Chow Mein",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Vegetable Frankie",
+   "Serving Size": 250,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Cheesy Spinach Pasta",
+   "Serving Size": 300,
+   "Calories": 530
+ },
+ {
+   "Food Name": "Potato Cheese Balls",
+   "Serving Size": 200,
+   "Calories": 480
+ },
+ {
+   "Food Name": "Green Salad with Lemon Dressing",
+   "Serving Size": 220,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Baked Zucchini Chips",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Cucumber and Mint Soup",
+   "Serving Size": 250,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Tomato and Basil Salad",
+   "Serving Size": 200,
+   "Calories": 110
+ },
+ {
+   "Food Name": "Roasted Beetroot",
+   "Serving Size": 200,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Grilled Chicken Salad",
+   "Serving Size": 250,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Paneer Wrap with Vegetables",
+   "Serving Size": 240,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Fish Stir Fry",
+   "Serving Size": 300,
+   "Calories": 350
+ },
+ {
+   "Food Name": "Egg Curry with Brown Rice",
+   "Serving Size": 300,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Chicken Tikka",
+   "Serving Size": 250,
+   "Calories": 360
+ },
+ {
+   "Food Name": "Whole Wheat Dal Dhokli",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Lentil and Vegetable Stew",
+   "Serving Size": 300,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Vegetable Dhokla",
+   "Serving Size": 250,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Sprouts Chaat",
+   "Serving Size": 200,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Vegetable Poha with Nuts",
+   "Serving Size": 300,
+   "Calories": 230
+ },
+ {
+   "Food Name": "Vegetable Manchurian",
+   "Serving Size": 300,
+   "Calories": 530
+ },
+ {
+   "Food Name": "Paneer and Peas Pulao",
+   "Serving Size": 250,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Rajma Chawal",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Vegetable Bread Rolls",
+   "Serving Size": 250,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Potato Masala Dosa",
+   "Serving Size": 300,
+   "Calories": 480
+ },
+ {
+   "Food Name": "Steamed Mixed Vegetables",
+   "Serving Size": 200,
+   "Calories": 130
+ },
+ {
+   "Food Name": "Broccoli Soup",
+   "Serving Size": 250,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Cucumber and Dill Salad",
+   "Serving Size": 200,
+   "Calories": 120
+ },
+ {
+   "Food Name": "Roasted Carrot Soup",
+   "Serving Size": 250,
+   "Calories": 140
+ },
+ {
+   "Food Name": "Avocado Toast with Lemon",
+   "Serving Size": 200,
+   "Calories": 150
+ },
+ {
+   "Food Name": "Grilled Tofu with Vegetables",
+   "Serving Size": 250,
+   "Calories": 320
+ },
+ {
+   "Food Name": "Fish Tikka with Yogurt Dip",
+   "Serving Size": 240,
+   "Calories": 330
+ },
+ {
+   "Food Name": "Chicken Meatball Curry",
+   "Serving Size": 300,
+   "Calories": 360
+ },
+ {
+   "Food Name": "Paneer Paratha with Raita",
+   "Serving Size": 300,
+   "Calories": 340
+ },
+ {
+   "Food Name": "Omelette with Spinach",
+   "Serving Size": 200,
+   "Calories": 310
+ },
+ {
+   "Food Name": "Vegetable Bajra Khichdi",
+   "Serving Size": 250,
+   "Calories": 250
+ },
+ {
+   "Food Name": "Masoor Dal with Roti",
+   "Serving Size": 250,
+   "Calories": 240
+ },
+ {
+   "Food Name": "Quinoa Khichdi",
+   "Serving Size": 250,
+   "Calories": 220
+ },
+ {
+   "Food Name": "Vegetable Handvo",
+   "Serving Size": 250,
+   "Calories": 260
+ },
+ {
+   "Food Name": "Pumpkin Stir Fry",
+   "Serving Size": 200,
+   "Calories": 210
+ },
+ {
+   "Food Name": "Paneer and Corn Pizza",
+   "Serving Size": 300,
+   "Calories": 520
+ },
+ {
+   "Food Name": "Egg Fried Rice",
+   "Serving Size": 300,
+   "Calories": 540
+ },
+ {
+   "Food Name": "Aloo Paratha with Butter",
+   "Serving Size": 300,
+   "Calories": 500
+ },
+ {
+   "Food Name": "Vegetable Biryani",
+   "Serving Size": 300,
+   "Calories": 530
+ },
+ {
+   "Food Name": "Cheese Sandwich",
+   "Serving Size": 250,
+   "Calories": 490
+ }
+]

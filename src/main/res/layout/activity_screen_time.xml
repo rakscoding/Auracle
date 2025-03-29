@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/main_background"
+    tools:context=".ScreenTimeActivity">
+
+    <!-- Total Screen Time -->
+    <TextView
+        android:id="@+id/screen_time_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/total_screen_time"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- App Usage Container -->
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/screen_time_text"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/goal_input">
+
+        <LinearLayout
+            android:id="@+id/app_usage_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <!-- Placeholder Text -->
+            <TextView
+                android:id="@+id/placeholder_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/loading_data"
+                android:textColor="@color/gray"
+                android:gravity="center"
+                android:padding="12dp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Goal Input -->
+    <EditText
+        android:id="@+id/goal_input"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:hint="@string/goal_input_hint"
+        android:inputType="text"
+        android:maxLines="1"
+        android:padding="12dp"
+        android:background="@drawable/input_background"
+        android:textColor="@color/black"
+        android:imeOptions="actionDone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/save_goal_button" />
+
+    <!-- Save Goal Button -->
+    <Button
+        android:id="@+id/save_goal_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save_goal_button"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/recommendation_text" />
+
+    <!-- Recommendation Text -->
+    <TextView
+        android:id="@+id/recommendation_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:visibility="gone"
+        android:padding="8dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

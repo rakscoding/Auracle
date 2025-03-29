@@ -1,0 +1,201 @@
+App Name,Screen Time (minutes),Time of Day,App Category,Screen Time Goal (minutes),Overuse (Yes/No)
+TikTok,158,Morning,Social Media,79,Yes
+WhatsApp Video,172,Morning,Education,74,Yes
+Flipboard,51,Work Hours,Education,115,No
+Microsoft Excel,103,Night,Education,82,Yes
+Zoom,87,Morning,Communication,76,Yes
+Twitter,183,Work Hours,Education,83,Yes
+Snapchat,60,Work Hours,Browsing,35,Yes
+LinkedIn,128,Night,Communication,61,Yes
+Discord,32,Evening,Work,36,No
+Reddit,147,Afternoon,News,33,Yes
+LinkedIn,32,Evening,Social Media,41,No
+Roblox,130,Work Hours,Reading,75,Yes
+Slack,92,Evening,Music,79,Yes
+WhatsApp,164,Morning,Social Media,110,Yes
+LinkedIn,148,Night,Social Media,81,Yes
+Microsoft Excel,142,Work Hours,News,74,Yes
+YouTube Kids,198,Afternoon,Gaming,91,Yes
+Discord,192,Evening,Reading,38,Yes
+Reddit,166,Afternoon,Creativity,65,Yes
+Gmail,64,Afternoon,Reading,72,No
+PUBG Mobile,83,Afternoon,Gaming,78,Yes
+YouTube,114,Evening,News,63,Yes
+Roblox,90,Night,Health,46,Yes
+PUBG Mobile,153,Morning,Health,84,Yes
+Discord,157,Night,Social Media,85,Yes
+Gmail,172,Morning,Health,76,Yes
+Gmail,59,Night,Gaming,110,No
+PUBG Mobile,61,Afternoon,Reading,108,No
+Microsoft Excel,154,Evening,Music,49,Yes
+Roblox,144,Work Hours,Education,71,Yes
+Twitter,71,Morning,Gaming,37,Yes
+Apple News,25,Afternoon,Browsing,41,No
+Chrome,26,Morning,Health,98,No
+Flipboard,73,Morning,Health,63,Yes
+Microsoft Excel,172,Evening,Music,92,Yes
+Reddit,29,Afternoon,Entertainment,64,No
+Twitter,173,Morning,Entertainment,107,Yes
+Microsoft Teams,36,Afternoon,News,58,No
+Roblox,112,Work Hours,News,47,Yes
+Kindle,127,Work Hours,Entertainment,113,Yes
+Gmail,178,Night,Gaming,44,Yes
+Instagram,86,Morning,Health,68,Yes
+Discord,105,Work Hours,Reading,38,Yes
+WhatsApp,182,Work Hours,Communication,108,Yes
+WhatsApp,94,Night,Creativity,58,Yes
+Spotify,166,Morning,Health,42,Yes
+Fitbit,178,Evening,News,98,Yes
+Roblox,155,Night,Communication,98,Yes
+Netflix,93,Night,Work,54,Yes
+Apple News,138,Afternoon,Health,94,Yes
+Microsoft Teams,48,Afternoon,Creativity,120,No
+Apple News,175,Work Hours,Health,74,Yes
+Discord,60,Afternoon,Music,115,No
+Slack,143,Work Hours,Communication,42,Yes
+Spotify,162,Work Hours,Health,111,Yes
+Slack,195,Afternoon,Communication,42,Yes
+WhatsApp,136,Morning,News,92,Yes
+Snapchat,166,Morning,Creativity,47,Yes
+Instagram,195,Work Hours,Work,95,Yes
+Apple News,155,Afternoon,Gaming,95,Yes
+Roblox,39,Work Hours,Work,35,Yes
+PUBG Mobile,46,Morning,Creativity,115,No
+Google Docs,106,Night,Work,116,No
+Microsoft Teams,41,Afternoon,Education,60,No
+Duolingo,194,Night,Health,93,Yes
+Discord,172,Afternoon,Music,92,Yes
+Fitbit,139,Evening,Communication,59,Yes
+Google Docs,107,Afternoon,Education,63,Yes
+Slack,84,Afternoon,Education,93,No
+Apple News,16,Afternoon,Reading,76,No
+Instagram,70,Evening,Gaming,98,No
+WhatsApp,110,Afternoon,Reading,51,Yes
+YouTube,21,Evening,Communication,42,No
+WhatsApp,76,Morning,Social Media,57,Yes
+Google Docs,78,Work Hours,Browsing,73,Yes
+Microsoft Excel,48,Evening,Music,92,No
+Flipboard,73,Morning,News,77,No
+Snapchat,164,Night,Communication,57,Yes
+Telegram,13,Evening,Health,40,No
+Reddit,109,Night,Communication,108,Yes
+Slack,179,Morning,Reading,89,Yes
+Fitbit,68,Afternoon,Entertainment,106,No
+Gmail,47,Work Hours,Work,92,No
+WhatsApp,69,Night,Work,88,No
+WhatsApp Video,48,Work Hours,Communication,86,No
+Reddit,15,Afternoon,News,57,No
+PUBG Mobile,70,Evening,Browsing,69,Yes
+Roblox,126,Work Hours,Work,112,Yes
+Instagram,113,Morning,Health,54,Yes
+Flipboard,88,Work Hours,Work,91,No
+Instagram,31,Morning,Creativity,57,No
+Netflix,194,Morning,Communication,30,Yes
+Duolingo,70,Afternoon,Reading,37,Yes
+Flipboard,128,Evening,Reading,39,Yes
+PUBG Mobile,148,Evening,Social Media,118,Yes
+Reddit,49,Night,Education,95,No
+Twitter,96,Night,Social Media,91,Yes
+Google Docs,159,Night,Education,36,Yes
+Apple News,89,Morning,News,39,Yes
+Snapchat,26,Evening,Communication,110,No
+Microsoft Excel,185,Work Hours,Health,50,Yes
+Slack,105,Night,Social Media,53,Yes
+Roblox,148,Afternoon,Education,81,Yes
+Flipboard,13,Evening,Communication,112,No
+Telegram,165,Afternoon,Work,32,Yes
+Reddit,67,Night,Browsing,57,Yes
+WhatsApp Video,126,Evening,Browsing,70,Yes
+Kindle,84,Evening,Communication,85,No
+Pinterest,188,Night,Music,62,Yes
+Netflix,141,Afternoon,Health,49,Yes
+Microsoft Excel,145,Work Hours,Social Media,80,Yes
+Slack,149,Evening,News,99,Yes
+Gmail,42,Work Hours,Social Media,112,No
+Slack,157,Evening,Education,68,Yes
+Fitbit,126,Night,News,48,Yes
+Zoom,71,Night,Music,91,No
+Slack,104,Afternoon,Health,115,No
+Netflix,65,Work Hours,Gaming,82,No
+Twitter,90,Work Hours,Social Media,89,Yes
+Netflix,95,Morning,Browsing,100,No
+Pinterest,107,Morning,Reading,66,Yes
+PUBG Mobile,125,Night,Health,92,Yes
+Discord,152,Morning,News,68,Yes
+Flipboard,25,Evening,Browsing,113,No
+Duolingo,166,Afternoon,Reading,46,Yes
+Duolingo,197,Work Hours,Music,50,Yes
+YouTube Kids,22,Work Hours,Social Media,52,No
+Duolingo,67,Evening,Reading,47,Yes
+Duolingo,72,Morning,Music,89,No
+Microsoft Excel,95,Afternoon,Music,63,Yes
+Flipboard,146,Work Hours,News,87,Yes
+Discord,92,Evening,Education,80,Yes
+Fitbit,73,Evening,Music,98,No
+Instagram,125,Morning,Reading,111,Yes
+Apple News,93,Night,Entertainment,93,No
+Telegram,174,Work Hours,Health,44,Yes
+Twitter,108,Afternoon,Reading,83,Yes
+Gmail,11,Evening,Communication,55,No
+Spotify,166,Afternoon,Music,40,Yes
+WhatsApp Video,30,Evening,Creativity,86,No
+Telegram,35,Afternoon,Gaming,119,No
+Spotify,108,Morning,Browsing,109,No
+Pinterest,73,Morning,Music,45,Yes
+Slack,100,Night,Browsing,78,Yes
+YouTube Kids,99,Morning,Education,40,Yes
+WhatsApp,199,Night,Communication,111,Yes
+Instagram,168,Afternoon,Communication,37,Yes
+Fitbit,29,Night,News,98,No
+WhatsApp,141,Work Hours,Work,68,Yes
+Chrome,152,Afternoon,Social Media,64,Yes
+TikTok,182,Afternoon,Browsing,87,Yes
+Zoom,45,Morning,Creativity,108,No
+WhatsApp Video,135,Evening,News,45,Yes
+Google Docs,150,Evening,Health,109,Yes
+PUBG Mobile,46,Afternoon,Browsing,75,No
+Instagram,133,Night,Work,38,Yes
+Slack,17,Work Hours,Gaming,63,No
+YouTube,83,Evening,Entertainment,92,No
+WhatsApp Video,87,Afternoon,Entertainment,89,No
+WhatsApp Video,109,Night,Entertainment,119,No
+Fitbit,200,Evening,Education,57,Yes
+YouTube,107,Afternoon,Entertainment,32,Yes
+Instagram,145,Work Hours,Social Media,113,Yes
+WhatsApp,41,Night,Education,94,No
+TikTok,181,Work Hours,Communication,53,Yes
+Kindle,26,Work Hours,Health,43,No
+Spotify,63,Afternoon,Creativity,108,No
+Telegram,88,Afternoon,Entertainment,30,Yes
+Roblox,34,Work Hours,Education,61,No
+Apple News,177,Night,Health,83,Yes
+LinkedIn,46,Afternoon,Creativity,109,No
+Kindle,40,Morning,Gaming,76,No
+Discord,124,Night,Entertainment,41,Yes
+Discord,134,Morning,Entertainment,47,Yes
+TikTok,141,Morning,Music,85,Yes
+LinkedIn,118,Morning,Social Media,83,Yes
+Instagram,83,Afternoon,Entertainment,70,Yes
+Flipboard,160,Evening,Education,120,Yes
+WhatsApp Video,32,Morning,Creativity,39,No
+Apple News,192,Evening,Communication,37,Yes
+Reddit,37,Evening,Browsing,64,No
+Twitter,31,Morning,Education,113,No
+Google Docs,138,Afternoon,Work,85,Yes
+Netflix,16,Evening,Health,52,No
+WhatsApp Video,10,Night,Education,30,No
+Apple News,158,Night,Browsing,37,Yes
+Discord,39,Morning,Music,33,Yes
+Duolingo,79,Evening,Gaming,111,No
+Duolingo,144,Evening,Communication,34,Yes
+Apple News,80,Afternoon,News,35,Yes
+Telegram,70,Morning,Communication,88,No
+Twitter,147,Work Hours,Health,88,Yes
+Discord,26,Morning,Education,45,No
+Telegram,185,Night,Browsing,36,Yes
+Flipboard,17,Morning,Music,66,No
+PUBG Mobile,151,Work Hours,Creativity,104,Yes
+Slack,45,Work Hours,Browsing,55,No
+Fitbit,42,Morning,Communication,76,No
+Microsoft Excel,147,Afternoon,News,44,Yes
+Snapchat,128,Night,Creativity,43,Yes

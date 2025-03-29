@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    tools:context=".HealthyDietActivity">
+
+    <!-- ScrollView for scrollable content -->
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Page Heading -->
+            <TextView
+                android:id="@+id/tvHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:text="@string/eat_healthy_stay_fit"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="16dp" />
+
+            <!-- Meal Buttons in TableLayout -->
+            <TableLayout
+                android:id="@+id/mealButtonsTable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:stretchColumns="*"
+                android:layout_marginTop="16dp">
+
+                <TableRow>
+                    <Button
+                        android:id="@+id/btnBreakfast"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/breakfast" />
+
+                    <Button
+                        android:id="@+id/btnLunch"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/lunch" />
+                </TableRow>
+
+                <TableRow>
+                    <Button
+                        android:id="@+id/btnSnacks"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/snacks" />
+
+                    <Button
+                        android:id="@+id/btnDinner"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/dinner" />
+                </TableRow>
+            </TableLayout>
+
+            <!-- Food Input -->
+            <EditText
+                android:id="@+id/etFoodInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/enter_food"
+                android:inputType="text"
+                android:padding="16dp"
+                android:backgroundTint="@color/purple_500"
+                android:layout_marginBottom="16dp"
+                android:visibility="gone" />
+
+            <!-- Dropdown Suggestions -->
+            <AutoCompleteTextView
+                android:id="@+id/dropdownSuggestions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/suggestions_hint"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp"
+                android:visibility="gone" />
+
+            <!-- Meal Details -->
+            <TextView
+                android:id="@+id/tvMealDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:padding="16dp"
+                android:text="@string/meal_details_placeholder"
+                android:gravity="center"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Total Calories -->
+            <TextView
+                android:id="@+id/tvTotalCalories"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:padding="16dp"
+                android:text="@string/total_calories_placeholder"
+                android:gravity="center" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

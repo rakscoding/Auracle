@@ -1,0 +1,1262 @@
+[
+ {
+   "Activity Name": "Hiking",
+   "Duration (minutes)": 23,
+   "Calories Burnt": 859,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 37.35,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Kayaking",
+   "Duration (minutes)": 37,
+   "Calories Burnt": 854,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 23.05,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Pilates",
+   "Duration (minutes)": 95,
+   "Calories Burnt": 532,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 5.59,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Skating",
+   "Duration (minutes)": 111,
+   "Calories Burnt": 765,
+   "Time of Day": "Night",
+   "Activity Type": "Strength",
+   "Calories per Minute": 6.9,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Yoga",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 200,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 4.44,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Swimming",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 350,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.75,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Tennis",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Weightlifting",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 300,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "High-Intensity Workout",
+   "Duration (minutes)": 35,
+   "Calories Burnt": 600,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 17.14,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Dancing",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 450,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 6,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Running",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 300,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Cycling",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 400,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.89,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Rock Climbing",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 550,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 9.17,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Boxing",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 650,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 13,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Rowing",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 420,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 10.5,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Zumba",
+   "Duration (minutes)": 55,
+   "Calories Burnt": 480,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.73,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Tai Chi",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 200,
+   "Time of Day": "Evening",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 3.33,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Aerobics",
+   "Duration (minutes)": 35,
+   "Calories Burnt": 320,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9.14,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Basketball",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 700,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.78,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Soccer",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 650,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.67,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Skiing",
+   "Duration (minutes)": 120,
+   "Calories Burnt": 900,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 7.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Surfing",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 750,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Balance",
+   "Calories per Minute": 8.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Barre Workout",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Stand-Up Paddleboarding",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 500,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Elliptical",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 380,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.44,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Horse Riding",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 450,
+   "Time of Day": "Morning",
+   "Activity Type": "Balance",
+   "Calories per Minute": 6.43,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Jump Rope",
+   "Duration (minutes)": 20,
+   "Calories Burnt": 250,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 12.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Hiking",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 800,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 8.89,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Table Tennis",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 300,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 6,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Badminton",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 450,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.5,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Power Yoga",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 250,
+   "Time of Day": "Morning",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Crossfit",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 700,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 15.56,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Stair Climbing",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 13.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Golf",
+   "Duration (minutes)": 120,
+   "Calories Burnt": 600,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Mountain Biking",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 850,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 9.44,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Martial Arts",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 650,
+   "Time of Day": "Night",
+   "Activity Type": "Strength",
+   "Calories per Minute": 10.83,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Stretching",
+   "Duration (minutes)": 20,
+   "Calories Burnt": 100,
+   "Time of Day": "Morning",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Spinning",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 12.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Rowing Machine",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 300,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Rock Wall Training",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 550,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Archery",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 300,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Balance",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Slacklining",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 200,
+   "Time of Day": "Morning",
+   "Activity Type": "Balance",
+   "Calories per Minute": 4.44,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Obstacle Course",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 800,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.43,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Kickboxing",
+   "Duration (minutes)": 55,
+   "Calories Burnt": 700,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 12.73,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Snowboarding",
+   "Duration (minutes)": 120,
+   "Calories Burnt": 950,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 7.92,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Aqua Aerobics",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 400,
+   "Time of Day": "Evening",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Rollerblading",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 750,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Kiteboarding",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 850,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 11.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Frisbee",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 350,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 5.83,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Paddle Boating",
+   "Duration (minutes)": 80,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Balance",
+   "Calories per Minute": 6.25,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Ice Skating",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 600,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Balance",
+   "Calories per Minute": 13.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Parkour",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 750,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 12.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Rowboat Fishing",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 400,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 4.44,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Sprinting",
+   "Duration (minutes)": 20,
+   "Calories Burnt": 350,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 17.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Sled Pulling",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 650,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 14.44,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Trampoline Workout",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 500,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Judo",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 700,
+   "Time of Day": "Night",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Tai Bo",
+   "Duration (minutes)": 55,
+   "Calories Burnt": 650,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.82,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Water Polo",
+   "Duration (minutes)": 80,
+   "Calories Burnt": 750,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9.38,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Handball",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 700,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Speed Walking",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Sand Running",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 650,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 14.44,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Tug-of-War",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 350,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Frisbee Golf",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 300,
+   "Time of Day": "Morning",
+   "Activity Type": "Balance",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Long Jump Training",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11.25,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Circuit Training",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 700,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 14,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Pole Dancing",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 500,
+   "Time of Day": "Night",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Roller Skiing",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 850,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 12.14,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Paddle Surfing",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 500,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 8.33,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Urban Walking Tour",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 400,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 4.44,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Cricket",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 600,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Baseball",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.5,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Archery Practice",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 250,
+   "Time of Day": "Morning",
+   "Activity Type": "Balance",
+   "Calories per Minute": 5.56,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Rugby",
+   "Duration (minutes)": 80,
+   "Calories Burnt": 750,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 9.38,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Lacrosse",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 700,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 10,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "American Football",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 650,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 10.83,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Squash",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.11,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Water Skiing",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 600,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 12,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Gymnastics",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 500,
+   "Time of Day": "Night",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 8.33,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Wrestling",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 700,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 14,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Dodgeball",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 350,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Table Soccer (Foosball)",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 200,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 3.33,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Ice Hockey",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 850,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9.44,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Bowling",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 300,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Balance",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Skateboarding",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Balance",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Fencing",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Archery Tag",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 400,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Beach Volleyball",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 600,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.57,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Sprint Relays",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 15,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Cheerleading",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 8.33,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Discus Throw Training",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 500,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 12.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Shot Put Training",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 550,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Rowing Competition",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 900,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 10,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Cricket Nets Practice",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Basketball Drills",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 500,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.11,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Soccer Practice",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 700,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.78,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Ping Pong Tournaments",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 300,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Balance",
+   "Calories per Minute": 6,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Badminton Doubles",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.5,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Kayaking Rapids",
+   "Duration (minutes)": 80,
+   "Calories Burnt": 900,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 11.25,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Archery Shooting",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Balance",
+   "Calories per Minute": 8,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Ballet",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 350,
+   "Time of Day": "Evening",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 5.83,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Belly Dance",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 250,
+   "Time of Day": "Night",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 5.56,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Bouldering",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 700,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Boxing Drills",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 450,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11.25,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Calisthenics",
+   "Duration (minutes)": 55,
+   "Calories Burnt": 550,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Capoeira",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 600,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Climbing Wall",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 800,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 10.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Cycling Sprints",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 500,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 12.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Crossfit Training",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 450,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 15,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Darts",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 250,
+   "Time of Day": "Night",
+   "Activity Type": "Balance",
+   "Calories per Minute": 4.17,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Golf Swing Practice",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 200,
+   "Time of Day": "Evening",
+   "Activity Type": "Balance",
+   "Calories per Minute": 4,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Handball Drills",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 400,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 13.33,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Hurdles",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 550,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 9.17,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Inline Skating",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.5,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Javelin Throw Training",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 500,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 12.5,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Kayaking Touring",
+   "Duration (minutes)": 80,
+   "Calories Burnt": 750,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 9.38,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Lunge Workout",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 350,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 7.78,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Martial Arts Drills",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 650,
+   "Time of Day": "Night",
+   "Activity Type": "Strength",
+   "Calories per Minute": 13,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Mountain Hiking",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 1000,
+   "Time of Day": "Morning",
+   "Activity Type": "Endurance",
+   "Calories per Minute": 11.11,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Obstacle Run",
+   "Duration (minutes)": 75,
+   "Calories Burnt": 600,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 8,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Paddleboard Yoga",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 400,
+   "Time of Day": "Night",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 6.67,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Pilates Reformer",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 300,
+   "Time of Day": "Evening",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 6,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Plank Exercises",
+   "Duration (minutes)": 20,
+   "Calories Burnt": 150,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 7.5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Rock Climbing (Indoor)",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 8.33,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Roller Derby",
+   "Duration (minutes)": 90,
+   "Calories Burnt": 850,
+   "Time of Day": "Night",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9.44,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Running Drills",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 300,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Sculpting Workout",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 300,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 7.5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Soccer Drills",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 8.33,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Sparring",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 650,
+   "Time of Day": "Evening",
+   "Activity Type": "Strength",
+   "Calories per Minute": 13,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Speed Skating",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 700,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.67,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Squat Workout",
+   "Duration (minutes)": 35,
+   "Calories Burnt": 250,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Strength",
+   "Calories per Minute": 7.14,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Sprint Intervals",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 350,
+   "Time of Day": "Morning",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 11.67,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Strength Circuit",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 550,
+   "Time of Day": "Night",
+   "Activity Type": "Strength",
+   "Calories per Minute": 9.17,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Tabata Training",
+   "Duration (minutes)": 30,
+   "Calories Burnt": 450,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 15,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Tennis Drills",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 450,
+   "Time of Day": "Evening",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 7.5,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Throwing Drills",
+   "Duration (minutes)": 45,
+   "Calories Burnt": 500,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 11.11,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Ultimate Frisbee",
+   "Duration (minutes)": 70,
+   "Calories Burnt": 650,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 9.29,
+   "Intensity": "High"
+ },
+ {
+   "Activity Name": "Vinyasa Yoga",
+   "Duration (minutes)": 60,
+   "Calories Burnt": 300,
+   "Time of Day": "Evening",
+   "Activity Type": "Flexibility",
+   "Calories per Minute": 5,
+   "Intensity": "Low"
+ },
+ {
+   "Activity Name": "Walking Lunges",
+   "Duration (minutes)": 40,
+   "Calories Burnt": 350,
+   "Time of Day": "Morning",
+   "Activity Type": "Strength",
+   "Calories per Minute": 8.75,
+   "Intensity": "Medium"
+ },
+ {
+   "Activity Name": "Zumba Step",
+   "Duration (minutes)": 50,
+   "Calories Burnt": 500,
+   "Time of Day": "Afternoon",
+   "Activity Type": "Cardio",
+   "Calories per Minute": 10,
+   "Intensity": "Medium"
+ }
+]

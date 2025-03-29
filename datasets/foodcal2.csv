@@ -1,0 +1,241 @@
+Food Name,Serving Size,Calories,Time of Day,User Preferences
+Spinach Salad,180,120,Lunch,Low Calorie
+Fruit Smoothie,200,150,Snack,Low Calorie
+Grilled Vegetables,210,180,Dinner,Low Calorie
+Cucumber Salad,150,100,Lunch,Low Calorie
+Vegetable Soup,250,190,Dinner,Low Calorie
+Grilled Chicken Breast,250,370,Lunch,High Protein
+Paneer Tikka,220,320,Dinner,High Protein
+Chicken Salad,200,310,Lunch,High Protein
+Tuna Sandwich,240,350,Snack,High Protein
+Egg Whites,180,300,Breakfast,High Protein
+Sambar with Rice,300,280,Lunch,High Fiber
+Vegetable Stir Fry,250,260,Dinner,High Fiber
+Lentil Soup,200,230,Lunch,High Fiber
+Quinoa Bowl,220,240,Dinner,High Fiber
+Oats Porridge,250,200,Breakfast,High Fiber
+Chocolate Cake,200,500,Snack,Carb Rich
+Pasta,300,540,Dinner,Carb Rich
+French Fries,250,450,Snack,Carb Rich
+Garlic Bread,200,420,Snack,Carb Rich
+Rice Bowl,280,400,Lunch,Carb Rich
+Spinach Soup,200,140,Lunch,Low Calorie
+Mixed Green Salad,180,120,Lunch,Low Calorie
+Vegetable Broth,250,150,Dinner,Low Calorie
+Cabbage Stir Fry,200,170,Lunch,Low Calorie
+Carrot Raita,220,130,Lunch,Low Calorie
+Grilled Salmon,240,350,Dinner,High Protein
+Boiled Eggs,150,300,Breakfast,High Protein
+Paneer Bhurji,200,320,Lunch,High Protein
+Chicken Skewers,250,340,Dinner,High Protein
+Turkey Wrap,230,330,Snack,High Protein
+Chickpea Salad,200,230,Lunch,High Fiber
+Brown Rice & Vegetables,250,260,Dinner,High Fiber
+Pumpkin Curry,240,250,Lunch,High Fiber
+Sweet Potato Mash,200,200,Lunch,High Fiber
+Lentil Dal,250,220,Lunch,High Fiber
+Banana Pancakes,200,480,Breakfast,Carb Rich
+Vegetable Pasta,300,510,Dinner,Carb Rich
+Cheesy Nachos,250,540,Snack,Carb Rich
+Mashed Potatoes,240,450,Lunch,Carb Rich
+Chocolate Muffin,220,500,Snack,Carb Rich
+Cucumber & Tomato Salad,200,130,Lunch,Low Calorie
+Roasted Vegetables,220,150,Dinner,Low Calorie
+Clear Soup,250,140,Dinner,Low Calorie
+Beetroot Salad,200,160,Lunch,Low Calorie
+Zucchini Noodles,200,120,Dinner,Low Calorie
+Grilled Tuna Steak,250,360,Lunch,High Protein
+Egg Curry,240,320,Dinner,High Protein
+Chicken Meatballs,200,330,Lunch,High Protein
+Paneer Wrap,230,310,Lunch,High Protein
+Shrimp Stir Fry,220,340,Dinner,High Protein
+Quinoa & Spinach,250,260,Lunch,High Fiber
+Sprout Salad,200,220,Lunch,High Fiber
+Whole Wheat Khichdi,250,240,Lunch,High Fiber
+Vegetable Stuffed Paratha,230,250,Lunch,High Fiber
+Oatmeal Bowl,200,200,Breakfast,High Fiber
+Veggie Pizza,250,490,Lunch,Carb Rich
+Butter Chicken Curry,250,540,Dinner,Carb Rich
+Rice & Dal,250,460,Lunch,Carb Rich
+Vegetable Fried Rice,300,530,Dinner,Carb Rich
+Creamy Pasta,250,500,Dinner,Carb Rich
+Tomato Cucumber Salad,200,120,Lunch,Low Calorie
+Steamed Broccoli,150,100,Lunch,Low Calorie
+Veggie Bowl,230,150,Dinner,Low Calorie
+Carrot Soup,250,140,Dinner,Low Calorie
+Roasted Cauliflower,200,130,Dinner,Low Calorie
+Tofu Stir Fry,240,320,Lunch,High Protein
+Chicken Kebabs,250,350,Dinner,High Protein
+Boiled Chicken Breast,220,300,Lunch,High Protein
+Paneer Tikka Masala,250,340,Dinner,High Protein
+Grilled Mutton,230,360,Dinner,High Protein
+Lentil Khichdi,240,240,Lunch,High Fiber
+Whole Wheat Upma,200,210,Breakfast,High Fiber
+Vegetable Stew,250,250,Lunch,High Fiber
+Spinach Dal,230,230,Lunch,High Fiber
+Mixed Sprouts Curry,250,260,Lunch,High Fiber
+Veggie Burger,300,540,Lunch,Carb Rich
+Fettuccine Alfredo,300,520,Dinner,Carb Rich
+Chocolate Brownie,200,480,Snack,Carb Rich
+Garlic Butter Naan,200,420,Lunch,Carb Rich
+Veggie Quesadilla,250,450,Lunch,Carb Rich
+Quinoa Salad,200,130,Lunch,Low Calorie
+Steamed Asparagus,150,110,Dinner,Low Calorie
+Grilled Zucchini,180,140,Lunch,Low Calorie
+Avocado Salad,200,160,Lunch,Low Calorie
+Vegetable Clear Soup,250,150,Dinner,Low Calorie
+Grilled Turkey Breast,250,370,Lunch,High Protein
+Boiled Fish Fillet,230,330,Dinner,High Protein
+Mutton Keema,250,360,Dinner,High Protein
+Paneer Cutlet,200,320,Lunch,High Protein
+Chicken Stir Fry,240,340,Lunch,High Protein
+Mixed Bean Salad,200,230,Lunch,High Fiber
+Whole Grain Sandwich,250,240,Lunch,High Fiber
+Pumpkin & Lentil Soup,200,220,Dinner,High Fiber
+Vegetable Jowar Khichdi,250,260,Lunch,High Fiber
+Ragi Roti with Sabzi,200,210,Lunch,High Fiber
+Whole Wheat Pancakes,200,500,Breakfast,Carb Rich
+Chole Bhature,300,550,Lunch,Carb Rich
+Veg Fried Rice,250,540,Lunch,Carb Rich
+Creamy Risotto,300,520,Dinner,Carb Rich
+Butter Garlic Noodles,250,490,Lunch,Carb Rich
+Green Apple Salad,220,120,Snack,Low Calorie
+Steamed Carrots,200,130,Lunch,Low Calorie
+Tomato & Basil Soup,250,140,Dinner,Low Calorie
+Baked Cauliflower,230,150,Dinner,Low Calorie
+Cucumber Mint Salad,200,120,Lunch,Low Calorie
+Tofu Bhurji,250,310,Lunch,High Protein
+Boiled Eggs & Spinach,220,330,Breakfast,High Protein
+Fish Tikka,240,350,Dinner,High Protein
+Chicken Curry with Rice,300,360,Dinner,High Protein
+Shrimp Pasta,250,340,Lunch,High Protein
+Moong Dal Salad,200,220,Lunch,High Fiber
+Quinoa Bowl with Vegetables,250,240,Lunch,High Fiber
+Vegetable Millet Upma,250,260,Breakfast,High Fiber
+Palak Chilla,200,200,Breakfast,High Fiber
+Lauki Sabzi with Rice,300,250,Lunch,High Fiber
+Paneer Butter Masala,250,520,Dinner,Carb Rich
+Cheese Pizza,300,540,Lunch,Carb Rich
+Garlic Rice,250,500,Lunch,Carb Rich
+Vegetable Noodles,300,510,Dinner,Carb Rich
+Pancakes with Maple Syrup,200,470,Breakfast,Carb Rich
+Avocado Toast,200,140,Breakfast,Low Calorie
+Spinach Smoothie,250,130,Snack,Low Calorie
+Roasted Pumpkin,220,160,Dinner,Low Calorie
+Broccoli Stir Fry,200,120,Lunch,Low Calorie
+Zucchini & Tomato Gratin,250,150,Dinner,Low Calorie
+Paneer Skewers,250,330,Dinner,High Protein
+Chicken Caesar Wrap,240,340,Lunch,High Protein
+Grilled Lamb Chops,300,370,Dinner,High Protein
+Fish Curry with Rice,300,350,Dinner,High Protein
+Baked Chicken Wings,250,320,Dinner,High Protein
+Chickpea & Spinach Curry,250,230,Lunch,High Fiber
+Vegetable Ragi Khichdi,300,250,Lunch,High Fiber
+Masoor Dal Soup,200,220,Lunch,High Fiber
+Rajma with Rice,300,260,Lunch,High Fiber
+Beetroot Stir Fry,220,210,Lunch,High Fiber
+Cheese Garlic Bread,250,510,Snack,Carb Rich
+Gulab Jamun,200,500,Snack,Carb Rich
+Vegetable Pulao,300,540,Lunch,Carb Rich
+Paneer Paratha,250,490,Lunch,Carb Rich
+Potato Wedges,250,450,Snack,Carb Rich
+Green Tea,200,50,Snack,Low Calorie
+Steamed Spinach,150,110,Lunch,Low Calorie
+Lettuce Wraps,220,140,Lunch,Low Calorie
+Roasted Tomatoes,200,130,Dinner,Low Calorie
+Carrot & Apple Salad,200,120,Snack,Low Calorie
+Egg Salad with Avocado,250,320,Lunch,High Protein
+Grilled Turkey Sandwich,240,330,Lunch,High Protein
+Chicken Thigh Roast,250,350,Dinner,High Protein
+Salmon Sushi,200,300,Dinner,High Protein
+Paneer Bhurji with Roti,250,340,Lunch,High Protein
+Ragi Porridge,200,220,Breakfast,High Fiber
+Vegetable Methi Paratha,250,240,Lunch,High Fiber
+Pumpkin Dal,200,230,Lunch,High Fiber
+Whole Wheat Pasta,300,260,Dinner,High Fiber
+Vegetable Poha,250,200,Breakfast,High Fiber
+Aloo Gobi with Roti,300,490,Lunch,Carb Rich
+Sweet Corn Soup,250,510,Dinner,Carb Rich
+Rice Kheer,200,500,Dessert,Carb Rich
+Vegetable Hakka Noodles,300,530,Dinner,Carb Rich
+Garlic Potato Mash,250,450,Lunch,Carb Rich
+Greek Salad,200,130,Lunch,Low Calorie
+Vegetable Sticks with Hummus,150,120,Snack,Low Calorie
+Cucumber and Yogurt Dip,200,110,Lunch,Low Calorie
+Zucchini Stir Fry,180,140,Dinner,Low Calorie
+Lentil & Spinach Soup,250,150,Dinner,Low Calorie
+Chicken Biryani,300,400,Dinner,High Protein
+Tandoori Fish,250,350,Dinner,High Protein
+Paneer Roll,200,320,Lunch,High Protein
+Grilled Pork Chops,300,370,Dinner,High Protein
+Scrambled Eggs with Veggies,220,310,Breakfast,High Protein
+Mixed Vegetable Curry,250,230,Lunch,High Fiber
+Cabbage Sabzi with Roti,300,240,Lunch,High Fiber
+Masala Oats,250,220,Breakfast,High Fiber
+Vegetable Seviyan Upma,250,250,Breakfast,High Fiber
+Spinach Chapati Roll,200,210,Lunch,High Fiber
+Baked Mac and Cheese,300,540,Lunch,Carb Rich
+Vegetable Lasagna,300,520,Dinner,Carb Rich
+Stuffed Garlic Bread,250,500,Snack,Carb Rich
+Paneer Butter Kulcha,250,530,Lunch,Carb Rich
+French Toast,200,480,Breakfast,Carb Rich
+Avocado and Tomato Salad,200,140,Lunch,Low Calorie
+Steamed Green Beans,150,110,Lunch,Low Calorie
+Carrot Sticks with Dip,200,130,Snack,Low Calorie
+Pumpkin Gratin,250,160,Dinner,Low Calorie
+Boiled Sweet Potatoes,200,140,Lunch,Low Calorie
+Grilled Chicken Tenders,240,330,Lunch,High Protein
+Boiled Egg Whites,150,300,Breakfast,High Protein
+Paneer Bhurji with Spinach,250,320,Lunch,High Protein
+Shrimp Cocktail,200,340,Snack,High Protein
+Lamb Curry,300,370,Dinner,High Protein
+Brown Rice Khichdi,250,250,Lunch,High Fiber
+Vegetable Dalia,250,240,Breakfast,High Fiber
+Pumpkin Soup,200,220,Lunch,High Fiber
+Multigrain Roti with Sabzi,300,260,Lunch,High Fiber
+Vegetable Barley Risotto,250,210,Lunch,High Fiber
+Veggie Spring Rolls,250,500,Snack,Carb Rich
+Chow Mein,300,540,Dinner,Carb Rich
+Vegetable Frankie,250,520,Lunch,Carb Rich
+Cheesy Spinach Pasta,300,530,Dinner,Carb Rich
+Potato Cheese Balls,200,480,Snack,Carb Rich
+Green Salad with Lemon Dressing,220,130,Lunch,Low Calorie
+Baked Zucchini Chips,200,120,Snack,Low Calorie
+Cucumber and Mint Soup,250,140,Dinner,Low Calorie
+Tomato and Basil Salad,200,110,Lunch,Low Calorie
+Roasted Beetroot,200,150,Dinner,Low Calorie
+Grilled Chicken Salad,250,330,Lunch,High Protein
+Paneer Wrap with Vegetables,240,320,Lunch,High Protein
+Fish Stir Fry,300,350,Dinner,High Protein
+Egg Curry with Brown Rice,300,340,Dinner,High Protein
+Chicken Tikka,250,360,Dinner,High Protein
+Whole Wheat Dal Dhokli,250,240,Lunch,High Fiber
+Lentil and Vegetable Stew,300,250,Dinner,High Fiber
+Vegetable Dhokla,250,220,Snack,High Fiber
+Sprouts Chaat,200,210,Lunch,High Fiber
+Vegetable Poha with Nuts,300,230,Breakfast,High Fiber
+Vegetable Manchurian,300,530,Lunch,Carb Rich
+Paneer and Peas Pulao,250,520,Lunch,Carb Rich
+Rajma Chawal,300,540,Lunch,Carb Rich
+Vegetable Bread Rolls,250,500,Snack,Carb Rich
+Potato Masala Dosa,300,480,Lunch,Carb Rich
+Steamed Mixed Vegetables,200,130,Lunch,Low Calorie
+Broccoli Soup,250,150,Dinner,Low Calorie
+Cucumber and Dill Salad,200,120,Lunch,Low Calorie
+Roasted Carrot Soup,250,140,Dinner,Low Calorie
+Avocado Toast with Lemon,200,150,Breakfast,Low Calorie
+Grilled Tofu with Vegetables,250,320,Lunch,High Protein
+Fish Tikka with Yogurt Dip,240,330,Dinner,High Protein
+Chicken Meatball Curry,300,360,Dinner,High Protein
+Paneer Paratha with Raita,300,340,Lunch,High Protein
+Omelette with Spinach,200,310,Breakfast,High Protein
+Vegetable Bajra Khichdi,250,250,Lunch,High Fiber
+Masoor Dal with Roti,250,240,Lunch,High Fiber
+Quinoa Khichdi,250,220,Lunch,High Fiber
+Vegetable Handvo,250,260,Lunch,High Fiber
+Pumpkin Stir Fry,200,210,Lunch,High Fiber
+Paneer and Corn Pizza,300,520,Lunch,Carb Rich
+Egg Fried Rice,300,540,Dinner,Carb Rich
+Aloo Paratha with Butter,300,500,Lunch,Carb Rich
+Vegetable Biryani,300,530,Lunch,Carb Rich
+Cheese Sandwich,250,490,Snack,Carb Rich

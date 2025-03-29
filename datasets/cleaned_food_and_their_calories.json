@@ -1,0 +1,2749 @@
+{
+    "foods": [
+        {
+            "Food": "artichoke",
+            "Serving": "1 artichoke (128 g)",
+            "Calories": "60 "
+        },
+        {
+            "Food": "arugula",
+            "Serving": "1 leaf (2 g)",
+            "Calories": "1 "
+        },
+        {
+            "Food": "asparagus",
+            "Serving": "1 spear (12 g)",
+            "Calories": "2 "
+        },
+        {
+            "Food": "aubergine",
+            "Serving": "1 aubergine (458 g)",
+            "Calories": "115 "
+        },
+        {
+            "Food": "beetroot",
+            "Serving": "1 beet (82 g)",
+            "Calories": "35 "
+        },
+        {
+            "Food": "bell pepper",
+            "Serving": "1 pepper (73 g)",
+            "Calories": "15 "
+        },
+        {
+            "Food": "black olives",
+            "Serving": "1 olive (2.7 g)",
+            "Calories": "2 "
+        },
+        {
+            "Food": "broccoli",
+            "Serving": "1 bunch (608 g)",
+            "Calories": "207 "
+        },
+        {
+            "Food": "brussels sprouts",
+            "Serving": "1 sprout (19 g)",
+            "Calories": "8 "
+        },
+        {
+            "Food": "cabbage",
+            "Serving": "1 head (908 g)",
+            "Calories": "227 "
+        },
+        {
+            "Food": "capsicum",
+            "Serving": "1 pepper (45 g)",
+            "Calories": "12 "
+        },
+        {
+            "Food": "carrot",
+            "Serving": "1 carrot (61 g)",
+            "Calories": "25 "
+        },
+        {
+            "Food": "cauliflower",
+            "Serving": "1 floweret (13 g)",
+            "Calories": "3 "
+        },
+        {
+            "Food": "celery",
+            "Serving": "1 stalk (40 g)",
+            "Calories": "6 "
+        },
+        {
+            "Food": "chard",
+            "Serving": "1 leaf (48 g)",
+            "Calories": "9 "
+        },
+        {
+            "Food": "cherry tomato",
+            "Serving": "1 cherry tomato (20 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "chicory",
+            "Serving": "1 head (53 g)",
+            "Calories": "38 "
+        },
+        {
+            "Food": "chinese cabbage",
+            "Serving": "1 head (840 g)",
+            "Calories": "134 "
+        },
+        {
+            "Food": "chives",
+            "Serving": "1 tbsp, chopped (3 g)",
+            "Calories": "1 "
+        },
+        {
+            "Food": "collard greens",
+            "Serving": "1 cup, raw (36 g)",
+            "Calories": "12 "
+        },
+        {
+            "Food": "corn",
+            "Serving": "1 cup (154 g)",
+            "Calories": "562 "
+        },
+        {
+            "Food": "courgette",
+            "Serving": "1 courgette (196 g)",
+            "Calories": "33 "
+        },
+        {
+            "Food": "creamed spinach",
+            "Serving": "1 cup (200 g)",
+            "Calories": "148 "
+        },
+        {
+            "Food": "cucumber",
+            "Serving": "1 cucumber (410 g)",
+            "Calories": "66 "
+        },
+        {
+            "Food": "eggplant",
+            "Serving": "1 eggplant (458 g)",
+            "Calories": "115 "
+        },
+        {
+            "Food": "endive",
+            "Serving": "1 head (513 g)",
+            "Calories": "87 "
+        },
+        {
+            "Food": "fennel",
+            "Serving": "1 bulb (234 g)",
+            "Calories": "73 "
+        },
+        {
+            "Food": "garlic",
+            "Serving": "1 clove (3 g)",
+            "Calories": "4 "
+        },
+        {
+            "Food": "gherkin",
+            "Serving": "1 gherkin (65 g)",
+            "Calories": "9 "
+        },
+        {
+            "Food": "gourd",
+            "Serving": "1 gourd (771 g)",
+            "Calories": "108 "
+        },
+        {
+            "Food": "green beans",
+            "Serving": "1 cup (110 g)",
+            "Calories": "34 "
+        },
+        {
+            "Food": "green olives",
+            "Serving": "1 olive (2.7 g)",
+            "Calories": "2 "
+        },
+        {
+            "Food": "green onion",
+            "Serving": "1 green onion (15 g)",
+            "Calories": "5 "
+        },
+        {
+            "Food": "horseradish",
+            "Serving": "1 tbsp (15 g)",
+            "Calories": "7 "
+        },
+        {
+            "Food": "kale",
+            "Serving": "1 cup, chopped (67 g)",
+            "Calories": "33 "
+        },
+        {
+            "Food": "kohlrabi",
+            "Serving": "1 kohlrabi (400 g)",
+            "Calories": "108 "
+        },
+        {
+            "Food": "kumara",
+            "Serving": "1 kumara (130 g)",
+            "Calories": "112 "
+        },
+        {
+            "Food": "leek",
+            "Serving": "1 leek (89 g)",
+            "Calories": "54 "
+        },
+        {
+            "Food": "lettuce",
+            "Serving": "1 head (600 g)",
+            "Calories": "90 "
+        },
+        {
+            "Food": "mushrooms",
+            "Serving": "1 mushroom (5.4 g)",
+            "Calories": "1 "
+        },
+        {
+            "Food": "mustard greens",
+            "Serving": "1 cup, chopped (56 g)",
+            "Calories": "15 "
+        },
+        {
+            "Food": "nori",
+            "Serving": "1 sheet (2.6 g)",
+            "Calories": "1 "
+        },
+        {
+            "Food": "okra",
+            "Serving": "1 pod (12 g)",
+            "Calories": "4 "
+        },
+        {
+            "Food": "olives",
+            "Serving": "1 olive (2.7 g)",
+            "Calories": "2 "
+        },
+        {
+            "Food": "onion",
+            "Serving": "1 onion (85 g)",
+            "Calories": "34 "
+        },
+        {
+            "Food": "parsnips",
+            "Serving": "1 parsnip (170 g)",
+            "Calories": "128 "
+        },
+        {
+            "Food": "peas",
+            "Serving": "1 cup (98 g)",
+            "Calories": "79 "
+        },
+        {
+            "Food": "pepper",
+            "Serving": "1 pepper (75 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "potato",
+            "Serving": "1 potato (213 g)",
+            "Calories": "164 "
+        },
+        {
+            "Food": "pumpkin",
+            "Serving": "1 pumpkin (196 g)",
+            "Calories": "51 "
+        },
+        {
+            "Food": "radishes",
+            "Serving": "1 radish (4.5 g)",
+            "Calories": "1 "
+        },
+        {
+            "Food": "red cabbage",
+            "Serving": "1 leaf (22 g)",
+            "Calories": "7 "
+        },
+        {
+            "Food": "rutabaga",
+            "Serving": "1 rutabaga (386 g)",
+            "Calories": "147 "
+        },
+        {
+            "Food": "shallots",
+            "Serving": "1 shallot (25 g)",
+            "Calories": "18 "
+        },
+        {
+            "Food": "spinach",
+            "Serving": "1 bunch (340 g)",
+            "Calories": "78 "
+        },
+        {
+            "Food": "squash",
+            "Serving": "1 squash (196 g)",
+            "Calories": "88 "
+        },
+        {
+            "Food": "sweet potato",
+            "Serving": "1 potato (130 g)",
+            "Calories": "112 "
+        },
+        {
+            "Food": "tomato",
+            "Serving": "1 tomato (111 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "turnip greens",
+            "Serving": "1 turnip green (170 g)",
+            "Calories": "34 "
+        },
+        {
+            "Food": "turnips",
+            "Serving": "1 turnip (122 g)",
+            "Calories": "34 "
+        },
+        {
+            "Food": "wasabi",
+            "Serving": "1 root (169 g)",
+            "Calories": "184 "
+        },
+        {
+            "Food": "winter squash",
+            "Serving": "1 squash (431 g)",
+            "Calories": "147 "
+        },
+        {
+            "Food": "zucchini",
+            "Serving": "1 zucchini (196 g)",
+            "Calories": "33 "
+        },
+        {
+            "Food": "acai",
+            "Serving": "1 oz. (28.35 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "apple",
+            "Serving": "1 apple (182 g)",
+            "Calories": "95 "
+        },
+        {
+            "Food": "applesauce",
+            "Serving": "1 cup (246 g)",
+            "Calories": "167 "
+        },
+        {
+            "Food": "apricot",
+            "Serving": "1 apricot (35 g)",
+            "Calories": "17 "
+        },
+        {
+            "Food": "avocado",
+            "Serving": "1 avocado (200 g)",
+            "Calories": "320 "
+        },
+        {
+            "Food": "banana",
+            "Serving": "1 banana (125 g)",
+            "Calories": "111 "
+        },
+        {
+            "Food": "blackberries",
+            "Serving": "1 cup (144 g)",
+            "Calories": "62 "
+        },
+        {
+            "Food": "blood oranges",
+            "Serving": "1 serving (140 g)",
+            "Calories": "70 "
+        },
+        {
+            "Food": "blueberries",
+            "Serving": "1 cup (148 g)",
+            "Calories": "84 "
+        },
+        {
+            "Food": "cantaloupe",
+            "Serving": "1 wedge (69 g)",
+            "Calories": "23 "
+        },
+        {
+            "Food": "cherries",
+            "Serving": "1 cherry (8 g)",
+            "Calories": "4 "
+        },
+        {
+            "Food": "clementine",
+            "Serving": "1 clementine (74 g)",
+            "Calories": "35 "
+        },
+        {
+            "Food": "cranberries",
+            "Serving": "1 cup (100 g)",
+            "Calories": "46 "
+        },
+        {
+            "Food": "currants",
+            "Serving": "1 cup (112 g)",
+            "Calories": "63 "
+        },
+        {
+            "Food": "custard apple",
+            "Serving": "1 custard apple (135 g)",
+            "Calories": "136 "
+        },
+        {
+            "Food": "dates",
+            "Serving": "1 date (7.1 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "figs",
+            "Serving": "1 fig (50 g)",
+            "Calories": "37 "
+        },
+        {
+            "Food": "fruit salad",
+            "Serving": "1 cup (249 g)",
+            "Calories": "125 "
+        },
+        {
+            "Food": "grapes",
+            "Serving": "1 cup (151 g)",
+            "Calories": "104 "
+        },
+        {
+            "Food": "greengage",
+            "Serving": "1 fruit (5 g)",
+            "Calories": "2 "
+        },
+        {
+            "Food": "guava",
+            "Serving": "1 guava (55 g)",
+            "Calories": "37 "
+        },
+        {
+            "Food": "jackfruit",
+            "Serving": "1 cup (151 g)",
+            "Calories": "143 "
+        },
+        {
+            "Food": "jujube",
+            "Serving": "1 oz. (28.35 g)",
+            "Calories": "22 "
+        },
+        {
+            "Food": "kiwi",
+            "Serving": "1 liwi (183 g)",
+            "Calories": "112 "
+        },
+        {
+            "Food": "lemon",
+            "Serving": "1 lemon (58 g)",
+            "Calories": "17 "
+        },
+        {
+            "Food": "lime",
+            "Serving": "1 lime (67 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "lychees",
+            "Serving": "1 lychee (10 g)",
+            "Calories": "7 "
+        },
+        {
+            "Food": "mandarin oranges",
+            "Serving": "1 mandarin orange (88 g)",
+            "Calories": "47 "
+        },
+        {
+            "Food": "mango",
+            "Serving": "1 mango (336 g)",
+            "Calories": "202 "
+        },
+        {
+            "Food": "minneola",
+            "Serving": "1 minneola (109 g)",
+            "Calories": "70 "
+        },
+        {
+            "Food": "mulberries",
+            "Serving": "1 cup (140 g)",
+            "Calories": "60 "
+        },
+        {
+            "Food": "nectarine",
+            "Serving": "1 nectarine (150 g)",
+            "Calories": "66 "
+        },
+        {
+            "Food": "orange",
+            "Serving": "1 orange (131 g)",
+            "Calories": "62 "
+        },
+        {
+            "Food": "papaya",
+            "Serving": "1 fruit (500 g)",
+            "Calories": "215 "
+        },
+        {
+            "Food": "passion fruit",
+            "Serving": "1 passoin fruit (18 g)",
+            "Calories": "17 "
+        },
+        {
+            "Food": "peach",
+            "Serving": "1 peach (150 g)",
+            "Calories": "59 "
+        },
+        {
+            "Food": "pear",
+            "Serving": "1 pear (178 g)",
+            "Calories": "101 "
+        },
+        {
+            "Food": "persimmon",
+            "Serving": "1 fruit (25 g)",
+            "Calories": "32 "
+        },
+        {
+            "Food": "physalis",
+            "Serving": "1 berry (5 g)",
+            "Calories": "2 "
+        },
+        {
+            "Food": "pineapple",
+            "Serving": "1 pineapple (905 g)",
+            "Calories": "453 "
+        },
+        {
+            "Food": "plantains",
+            "Serving": "1 plantain (179 g)",
+            "Calories": "218 "
+        },
+        {
+            "Food": "plum",
+            "Serving": "1 plum (66 g)",
+            "Calories": "30 "
+        },
+        {
+            "Food": "pomegranate",
+            "Serving": "1 pomegranate (282 g)",
+            "Calories": "234 "
+        },
+        {
+            "Food": "quince",
+            "Serving": "1 quince (92 g)",
+            "Calories": "52 "
+        },
+        {
+            "Food": "raisins",
+            "Serving": "1 cup (145 g)",
+            "Calories": "434 "
+        },
+        {
+            "Food": "rambutan",
+            "Serving": "1 rambutan (9 g)",
+            "Calories": "7 "
+        },
+        {
+            "Food": "raspberries",
+            "Serving": "1 cup (123 g)",
+            "Calories": "64 "
+        },
+        {
+            "Food": "rhubarb",
+            "Serving": "1 stalk (51 g)",
+            "Calories": "11 "
+        },
+        {
+            "Food": "starfruit",
+            "Serving": "1 star fruit (91 g)",
+            "Calories": "28 "
+        },
+        {
+            "Food": "strawberries",
+            "Serving": "1 cup (152 g)",
+            "Calories": "49 "
+        },
+        {
+            "Food": "tamarind",
+            "Serving": "1 tamarind (2 g)",
+            "Calories": "5 "
+        },
+        {
+            "Food": "tangerine",
+            "Serving": "1 tangerine (88 g)",
+            "Calories": "47 "
+        },
+        {
+            "Food": "watermelon",
+            "Serving": "1 wedge (286 g)",
+            "Calories": "86 "
+        },
+        {
+            "Food": "baby back ribs",
+            "Serving": "1 serving (139 g)",
+            "Calories": "360 "
+        },
+        {
+            "Food": "bacon and eggs",
+            "Serving": "1 serving (214 g)",
+            "Calories": "539 "
+        },
+        {
+            "Food": "baked beans",
+            "Serving": "1 cup (260 g)",
+            "Calories": "244 "
+        },
+        {
+            "Food": "bbq ribs",
+            "Serving": "1 rib (141 g)",
+            "Calories": "360 "
+        },
+        {
+            "Food": "beef stew",
+            "Serving": "1 cup (196 g)",
+            "Calories": "186 "
+        },
+        {
+            "Food": "biryani",
+            "Serving": "1 cup (275 g)",
+            "Calories": "484 "
+        },
+        {
+            "Food": "black pudding",
+            "Serving": "1 pudding (40 g)",
+            "Calories": "101 "
+        },
+        {
+            "Food": "black rice",
+            "Serving": "1/2 cup (100 g)",
+            "Calories": "323 "
+        },
+        {
+            "Food": "blt",
+            "Serving": "1 item (240 g)",
+            "Calories": "593 "
+        },
+        {
+            "Food": "brown rice",
+            "Serving": "1 cup (185 g)",
+            "Calories": "670 "
+        },
+        {
+            "Food": "burrito",
+            "Serving": "1 burrito (200 g)",
+            "Calories": "326 "
+        },
+        {
+            "Food": "butter chicken",
+            "Serving": "1 tray (350 g)",
+            "Calories": "490 "
+        },
+        {
+            "Food": "california roll",
+            "Serving": "1 roll (35 g)",
+            "Calories": "33 "
+        },
+        {
+            "Food": "chicken caesar salad",
+            "Serving": "1 salad (309 g)",
+            "Calories": "392 "
+        },
+        {
+            "Food": "chicken fried steak",
+            "Serving": "1 steak (280 g)",
+            "Calories": "423 "
+        },
+        {
+            "Food": "chicken marsala",
+            "Serving": "1 serving (2301 g)",
+            "Calories": "2209 "
+        },
+        {
+            "Food": "chicken parmesan",
+            "Serving": "1 piece (227 g)",
+            "Calories": "250 "
+        },
+        {
+            "Food": "chicken pot pie",
+            "Serving": "1 pie (302 g)",
+            "Calories": "673 "
+        },
+        {
+            "Food": "chicken tikka masala",
+            "Serving": "1 serving (241 g)",
+            "Calories": "195 "
+        },
+        {
+            "Food": "chili con carne",
+            "Serving": "1 cup (253 g)",
+            "Calories": "266 "
+        },
+        {
+            "Food": "chimichanga",
+            "Serving": "1 item (180 g)",
+            "Calories": "418 "
+        },
+        {
+            "Food": "cobb salad",
+            "Serving": "1 serving (536 g)",
+            "Calories": "632 "
+        },
+        {
+            "Food": "collard greens",
+            "Serving": "1 cup (45 g)",
+            "Calories": "13 "
+        },
+        {
+            "Food": "corn dog",
+            "Serving": "1 item (175 g)",
+            "Calories": "438 "
+        },
+        {
+            "Food": "corned beef hash",
+            "Serving": "1 can (213 g)",
+            "Calories": "349 "
+        },
+        {
+            "Food": "cottage pie",
+            "Serving": "1 pie (376 g)",
+            "Calories": "523 "
+        },
+        {
+            "Food": "dal",
+            "Serving": "1/2 cup (92 g)",
+            "Calories": "304 "
+        },
+        {
+            "Food": "deviled eggs",
+            "Serving": "1/2 egg (31 g)",
+            "Calories": "62 "
+        },
+        {
+            "Food": "dim sum",
+            "Serving": "1 piece (19 g)",
+            "Calories": "37 "
+        },
+        {
+            "Food": "dosa",
+            "Serving": "1 serving (435 g)",
+            "Calories": "287 "
+        },
+        {
+            "Food": "enchiladas",
+            "Serving": "1 enchilada (192 g)",
+            "Calories": "323 "
+        },
+        {
+            "Food": "fajita",
+            "Serving": "1 serving (248 g)",
+            "Calories": "290 "
+        },
+        {
+            "Food": "fish and chips",
+            "Serving": "1 serving (300 g)",
+            "Calories": "585 "
+        },
+        {
+            "Food": "fried rice",
+            "Serving": "1 serving (356 g)",
+            "Calories": "662 "
+        },
+        {
+            "Food": "fried shrimp",
+            "Serving": "1 shrimp (27 g)",
+            "Calories": "75 "
+        },
+        {
+            "Food": "grilled cheese sandwich",
+            "Serving": "1 sandwich (136 g)",
+            "Calories": "392 "
+        },
+        {
+            "Food": "ham and cheese sandwich",
+            "Serving": "1 sandwich (146 g)",
+            "Calories": "352 "
+        },
+        {
+            "Food": "hummus",
+            "Serving": "1 cup (246 g)",
+            "Calories": "435 "
+        },
+        {
+            "Food": "jambalaya",
+            "Serving": "1 cup (250 g)",
+            "Calories": "250 "
+        },
+        {
+            "Food": "kebab",
+            "Serving": "1 kebab (360 g)",
+            "Calories": "774 "
+        },
+        {
+            "Food": "lasagne",
+            "Serving": "1 serving (215 g)",
+            "Calories": "284 "
+        },
+        {
+            "Food": "mac and cheese",
+            "Serving": "1 serving (189 g)",
+            "Calories": "699 "
+        },
+        {
+            "Food": "macaroni and cheese",
+            "Serving": "1 serving (189 g)",
+            "Calories": "699 "
+        },
+        {
+            "Food": "mashed potatoes",
+            "Serving": "1 cup (210 g)",
+            "Calories": "174 "
+        },
+        {
+            "Food": "meat pie",
+            "Serving": "1 pie (120 g)",
+            "Calories": "290 "
+        },
+        {
+            "Food": "meatloaf",
+            "Serving": "1 loaf (284 g)",
+            "Calories": "721 "
+        },
+        {
+            "Food": "naan",
+            "Serving": "1 bread (84 g)",
+            "Calories": "260 "
+        },
+        {
+            "Food": "orange chicken",
+            "Serving": "1 serving (162 g)",
+            "Calories": "420 "
+        },
+        {
+            "Food": "pad thai",
+            "Serving": "1 cup (250 g)",
+            "Calories": "375 "
+        },
+        {
+            "Food": "paella",
+            "Serving": "1/2 package (128 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "paratha",
+            "Serving": "1 paratha (80 g)",
+            "Calories": "260 "
+        },
+        {
+            "Food": "pea soup",
+            "Serving": "1 cup (253 g)",
+            "Calories": "190 "
+        },
+        {
+            "Food": "peanut butter sandwich",
+            "Serving": "1 sandwich (49 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "peking duck",
+            "Serving": "1/2 duck (178 g)",
+            "Calories": "401 "
+        },
+        {
+            "Food": "philly cheese steak",
+            "Serving": "1 sandwich (120 g)",
+            "Calories": "300 "
+        },
+        {
+            "Food": "pizza",
+            "Serving": "1 slice (102 g)",
+            "Calories": "272 "
+        },
+        {
+            "Food": "pork chop",
+            "Serving": "1 chop (131 g)",
+            "Calories": "295 "
+        },
+        {
+            "Food": "potato salad",
+            "Serving": "1/3 cup (95 g)",
+            "Calories": "136 "
+        },
+        {
+            "Food": "pulled pork sandwich",
+            "Serving": "1 sandwich (261 g)",
+            "Calories": "551 "
+        },
+        {
+            "Food": "ramen",
+            "Serving": "1 package, dry (85 g)",
+            "Calories": "380 "
+        },
+        {
+            "Food": "ravioli",
+            "Serving": "5 ravioli (66 g)",
+            "Calories": "134 "
+        },
+        {
+            "Food": "reuben sandwich",
+            "Serving": "1 sandwich (308 g)",
+            "Calories": "641 "
+        },
+        {
+            "Food": "roast beef",
+            "Serving": "1 slice (21 g)",
+            "Calories": "23 "
+        },
+        {
+            "Food": "roast dinner",
+            "Serving": "1 slice (121 g)",
+            "Calories": "240 "
+        },
+        {
+            "Food": "samosa",
+            "Serving": "1 samosa (50 g)",
+            "Calories": "107 "
+        },
+        {
+            "Food": "sausage roll",
+            "Serving": "1 roll (103 g)",
+            "Calories": "361 "
+        },
+        {
+            "Food": "sausage rolls",
+            "Serving": "1 roll (34 g)",
+            "Calories": "101 "
+        },
+        {
+            "Food": "shepherds pie",
+            "Serving": "1 pie (227 g)",
+            "Calories": "159 "
+        },
+        {
+            "Food": "shrimp cocktail",
+            "Serving": "1 oz. (28 g)",
+            "Calories": "130 "
+        },
+        {
+            "Food": "sloppy joe",
+            "Serving": "1/2 cup (142 g)",
+            "Calories": "101 "
+        },
+        {
+            "Food": "sloppy joes",
+            "Serving": "1 bun (258 g)",
+            "Calories": "397 "
+        },
+        {
+            "Food": "spaghetti bolognese",
+            "Serving": "1 serving (283 g)",
+            "Calories": "374 "
+        },
+        {
+            "Food": "spring roll",
+            "Serving": "1 roll (140 g)",
+            "Calories": "350 "
+        },
+        {
+            "Food": "spring rolls",
+            "Serving": "1 roll (140 g)",
+            "Calories": "350 "
+        },
+        {
+            "Food": "taco",
+            "Serving": "1 taco (98 g)",
+            "Calories": "213 "
+        },
+        {
+            "Food": "tandoori chicken",
+            "Serving": "1 serving (175 g)",
+            "Calories": "198 "
+        },
+        {
+            "Food": "yorkshire pudding",
+            "Serving": "1 pudding (15 g)",
+            "Calories": "83 "
+        },
+        {
+            "Food": "amaranth",
+            "Serving": "1 cup (193 g)",
+            "Calories": "716 "
+        },
+        {
+            "Food": "barley",
+            "Serving": "1 cup (157 g)",
+            "Calories": "556 "
+        },
+        {
+            "Food": "barley groats",
+            "Serving": "1 cup (31 g)",
+            "Calories": "31 "
+        },
+        {
+            "Food": "brown rice",
+            "Serving": "1 cup (195 g)",
+            "Calories": "757 "
+        },
+        {
+            "Food": "buckwheat",
+            "Serving": "1 cup (170 g)",
+            "Calories": "583 "
+        },
+        {
+            "Food": "buckwheat groats",
+            "Serving": "1 cup (164 g)",
+            "Calories": "567 "
+        },
+        {
+            "Food": "corn waffles",
+            "Serving": "1 waffle (40 g)",
+            "Calories": "110 "
+        },
+        {
+            "Food": "cornmeal",
+            "Serving": "1 cup (122 g)",
+            "Calories": "442 "
+        },
+        {
+            "Food": "cornstarch",
+            "Serving": "1 cup (128 g)",
+            "Calories": "488 "
+        },
+        {
+            "Food": "couscous",
+            "Serving": "1 cup (173 g)",
+            "Calories": "650 "
+        },
+        {
+            "Food": "cracker",
+            "Serving": "1 cracker (7 g)",
+            "Calories": "35 "
+        },
+        {
+            "Food": "durum wheat semolina",
+            "Serving": "1 tbsp (30 g)",
+            "Calories": "119 "
+        },
+        {
+            "Food": "flaxseed",
+            "Serving": "1 cup (168 g)",
+            "Calories": "897 "
+        },
+        {
+            "Food": "freekeh",
+            "Serving": "1 cup (160 g)",
+            "Calories": "832 "
+        },
+        {
+            "Food": "gluten",
+            "Serving": "1 oz. (28 g)",
+            "Calories": "104 "
+        },
+        {
+            "Food": "grissini",
+            "Serving": "1 grissini (5 g)",
+            "Calories": "20 "
+        },
+        {
+            "Food": "kamut",
+            "Serving": "1 cup (186 g)",
+            "Calories": "627 "
+        },
+        {
+            "Food": "millet",
+            "Serving": "1 cup (128 g)",
+            "Calories": "484 "
+        },
+        {
+            "Food": "millet flour",
+            "Serving": "1 cup (140 g)",
+            "Calories": "521 "
+        },
+        {
+            "Food": "millet gruel",
+            "Serving": "1 cup (174 g)",
+            "Calories": "80 "
+        },
+        {
+            "Food": "oat bran",
+            "Serving": "1 cup (94 g)",
+            "Calories": "231 "
+        },
+        {
+            "Food": "pearl barley",
+            "Serving": "1 cup (157 g)",
+            "Calories": "553 "
+        },
+        {
+            "Food": "polenta",
+            "Serving": "1 cup (150 g)",
+            "Calories": "549 "
+        },
+        {
+            "Food": "prawn crackers",
+            "Serving": "1 cracker (3 g)",
+            "Calories": "16 "
+        },
+        {
+            "Food": "pretzel sticks",
+            "Serving": "20 sticks (12 g)",
+            "Calories": "46 "
+        },
+        {
+            "Food": "quinoa",
+            "Serving": "1 cup (170 g)",
+            "Calories": "626 "
+        },
+        {
+            "Food": "rusk",
+            "Serving": "1 rusk (10 g)",
+            "Calories": "41 "
+        },
+        {
+            "Food": "rye bran",
+            "Serving": "1 cup (150 g)",
+            "Calories": "422 "
+        },
+        {
+            "Food": "sago",
+            "Serving": "1 oz. (28 g)",
+            "Calories": "99 "
+        },
+        {
+            "Food": "savoury biscuits",
+            "Serving": "40 grams (40 g)",
+            "Calories": "139 "
+        },
+        {
+            "Food": "shortbread",
+            "Serving": "1 cookie (19 g)",
+            "Calories": "95 "
+        },
+        {
+            "Food": "spelt",
+            "Serving": "1 cup (174 g)",
+            "Calories": "588 "
+        },
+        {
+            "Food": "spelt bran",
+            "Serving": "1 cup (160 g)",
+            "Calories": "283 "
+        },
+        {
+            "Food": "spelt semolina",
+            "Serving": "1 cup (167 g)",
+            "Calories": "601 "
+        },
+        {
+            "Food": "sunflower seeds",
+            "Serving": "1 cup (140 g)",
+            "Calories": "818 "
+        },
+        {
+            "Food": "tortilla",
+            "Serving": "1 tortilla (197 g)",
+            "Calories": "467 "
+        },
+        {
+            "Food": "tortilla chips",
+            "Serving": "20 chips (32 g)",
+            "Calories": "160 "
+        },
+        {
+            "Food": "wheat bran",
+            "Serving": "1 cup (58 g)",
+            "Calories": "125 "
+        },
+        {
+            "Food": "wheat germ",
+            "Serving": "1 cup (113 g)",
+            "Calories": "432 "
+        },
+        {
+            "Food": "wheat gluten",
+            "Serving": "1 tsp (3 g)",
+            "Calories": "10 "
+        },
+        {
+            "Food": "wheat semolina",
+            "Serving": "1 cup (167 g)",
+            "Calories": "601 "
+        },
+        {
+            "Food": "wheat starch",
+            "Serving": "1 cup (110 g)",
+            "Calories": "386 "
+        },
+        {
+            "Food": "whole grain wheat",
+            "Serving": "1 cup (120 g)",
+            "Calories": "407 "
+        },
+        {
+            "Food": "wholegrain oat",
+            "Serving": "1 cup (80 g)",
+            "Calories": "300 "
+        },
+        {
+            "Food": "almond oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "123 "
+        },
+        {
+            "Food": "apricot kernel oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "argan oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "125 "
+        },
+        {
+            "Food": "avocado oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "babassu oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "canola oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "coconut oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "corn oil",
+            "Serving": "1 tbsp (15 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "cottonseed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "123 "
+        },
+        {
+            "Food": "flaxseed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "grape seed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "hazelnut oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "linseed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "117 "
+        },
+        {
+            "Food": "menhaden oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "128 "
+        },
+        {
+            "Food": "mustard oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "oat oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "olive oil",
+            "Serving": "1 tbsp (15 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "palm kernel oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "123 "
+        },
+        {
+            "Food": "palm oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "123 "
+        },
+        {
+            "Food": "peanut oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "poppy seed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "pumpkin seed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "123 "
+        },
+        {
+            "Food": "rice bran oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "safflower oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "salmon oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "128 "
+        },
+        {
+            "Food": "sesame oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "shea oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "soy oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "123 "
+        },
+        {
+            "Food": "sunflower oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "tomato seed oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "vegetable oil",
+            "Serving": "1 tbsp (15 ml)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "walnut oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "124 "
+        },
+        {
+            "Food": "wheat germ oil",
+            "Serving": "1 tbsp (14 ml)",
+            "Calories": "130 "
+        },
+        {
+            "Food": "alphabet soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "62 "
+        },
+        {
+            "Food": "bean stew",
+            "Serving": "1 cup (252 g)",
+            "Calories": "335 "
+        },
+        {
+            "Food": "beef bouillon",
+            "Serving": "1 cup (240 g)",
+            "Calories": "7 "
+        },
+        {
+            "Food": "beef noodle soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "83 "
+        },
+        {
+            "Food": "beef soup",
+            "Serving": "1 cup (213 g)",
+            "Calories": "70 "
+        },
+        {
+            "Food": "bouillon",
+            "Serving": "1 cup (244 g)",
+            "Calories": "39 "
+        },
+        {
+            "Food": "broccoli cheese soup",
+            "Serving": "1 can (303 g)",
+            "Calories": "264 "
+        },
+        {
+            "Food": "broccoli soup",
+            "Serving": "1 cup (237 g)",
+            "Calories": "206 "
+        },
+        {
+            "Food": "cabbage soup",
+            "Serving": "1 cup (245 g)",
+            "Calories": "69 "
+        },
+        {
+            "Food": "carrot ginger soup",
+            "Serving": "1 serving (381 g)",
+            "Calories": "95 "
+        },
+        {
+            "Food": "carrot soup",
+            "Serving": "1 serving (381 g)",
+            "Calories": "95 "
+        },
+        {
+            "Food": "chicken bouillon",
+            "Serving": "1 cup (241 g)",
+            "Calories": "10 "
+        },
+        {
+            "Food": "chicken broth",
+            "Serving": "1 cup (244 g)",
+            "Calories": "39 "
+        },
+        {
+            "Food": "chicken gumbo soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "56 "
+        },
+        {
+            "Food": "chicken noodle soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "62 "
+        },
+        {
+            "Food": "chicken stock",
+            "Serving": "1 cup (244 g)",
+            "Calories": "39 "
+        },
+        {
+            "Food": "chicken vegetable soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "77 "
+        },
+        {
+            "Food": "chicken with rice soup",
+            "Serving": "1 cup (243 g)",
+            "Calories": "58 "
+        },
+        {
+            "Food": "cream of asparagus soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "85 "
+        },
+        {
+            "Food": "cream of broccoli soup",
+            "Serving": "1 serving (310 g)",
+            "Calories": "140 "
+        },
+        {
+            "Food": "cream of celery soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "92 "
+        },
+        {
+            "Food": "cream of chicken soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "117 "
+        },
+        {
+            "Food": "cream of mushroom soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "97 "
+        },
+        {
+            "Food": "cream of onion soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "107 "
+        },
+        {
+            "Food": "cream of potato soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "73 "
+        },
+        {
+            "Food": "creamy chicken noodle soup",
+            "Serving": "1 cup (245 g)",
+            "Calories": "56 "
+        },
+        {
+            "Food": "french onion soup",
+            "Serving": "1 cup (243 g)",
+            "Calories": "56 "
+        },
+        {
+            "Food": "golden mushroom soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "161 "
+        },
+        {
+            "Food": "goulash",
+            "Serving": "1 serving (187 g)",
+            "Calories": "1887 "
+        },
+        {
+            "Food": "instant ramen",
+            "Serving": "1 package (85 g)",
+            "Calories": "371 "
+        },
+        {
+            "Food": "lentil soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "139 "
+        },
+        {
+            "Food": "lobster bisque soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "248 "
+        },
+        {
+            "Food": "meatball soup",
+            "Serving": "1 cup (245 g)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "minestrone",
+            "Serving": "1 cup (241 g)",
+            "Calories": "82 "
+        },
+        {
+            "Food": "mushroom soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "85 "
+        },
+        {
+            "Food": "noodle soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "83 "
+        },
+        {
+            "Food": "onion soup",
+            "Serving": "1 cup (243 g)",
+            "Calories": "56 "
+        },
+        {
+            "Food": "oxtail soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "68 "
+        },
+        {
+            "Food": "potato soup",
+            "Serving": "1 serving (240 g)",
+            "Calories": "192 "
+        },
+        {
+            "Food": "pumpkin soup",
+            "Serving": "1 cup (245 g)",
+            "Calories": "71 "
+        },
+        {
+            "Food": "ramen",
+            "Serving": "1 package (85 g)",
+            "Calories": "371 "
+        },
+        {
+            "Food": "scotch broth",
+            "Serving": "1 cup (241 g)",
+            "Calories": "80 "
+        },
+        {
+            "Food": "succotash",
+            "Serving": "1 cup (192 g)",
+            "Calories": "221 "
+        },
+        {
+            "Food": "thai soup",
+            "Serving": "1 cup (245 g)",
+            "Calories": "147 "
+        },
+        {
+            "Food": "tomato rice soup",
+            "Serving": "1 cup (247 g)",
+            "Calories": "116 "
+        },
+        {
+            "Food": "tomato soup",
+            "Serving": "1 cup (248 g)",
+            "Calories": "74 "
+        },
+        {
+            "Food": "vegetable beef soup",
+            "Serving": "1 cup (244 g)",
+            "Calories": "76 "
+        },
+        {
+            "Food": "vegetable broth",
+            "Serving": "1 cup (235 g)",
+            "Calories": "12 "
+        },
+        {
+            "Food": "vegetable soup",
+            "Serving": "1 cup (241 g)",
+            "Calories": "67 "
+        },
+        {
+            "Food": "vegetable stock",
+            "Serving": "1 cup (235 g)",
+            "Calories": "12 "
+        },
+        {
+            "Food": "wedding soup",
+            "Serving": "1 cup (245 g)",
+            "Calories": "130 "
+        },
+        {
+            "Food": "baskin-robbins",
+            "Serving": "1 scoop (71 g)",
+            "Calories": "170 "
+        },
+        {
+            "Food": "ben and jerry\u2019s",
+            "Serving": "1 scoop (92 g)",
+            "Calories": "210 "
+        },
+        {
+            "Food": "butter pecan ice cream",
+            "Serving": "1 scoop (113 g)",
+            "Calories": "280 "
+        },
+        {
+            "Food": "carvel",
+            "Serving": "1 cup (212 g)",
+            "Calories": "449 "
+        },
+        {
+            "Food": "chocolate chip ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "155 "
+        },
+        {
+            "Food": "chocolate ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "156 "
+        },
+        {
+            "Food": "ciao bella",
+            "Serving": "1 cup (220 g)",
+            "Calories": "240 "
+        },
+        {
+            "Food": "coffee ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "170 "
+        },
+        {
+            "Food": "cold stone creamery",
+            "Serving": "1 scoop (142 g)",
+            "Calories": "329 "
+        },
+        {
+            "Food": "cookie dough ice cream",
+            "Serving": "1/2 cup (65 g)",
+            "Calories": "130 "
+        },
+        {
+            "Food": "crunchie mcflurry",
+            "Serving": "1 mcflurry (183 g)",
+            "Calories": "318 "
+        },
+        {
+            "Food": "dairy milk mcflurry",
+            "Serving": "1 mcflurry (183 g)",
+            "Calories": "340 "
+        },
+        {
+            "Food": "dippin dots",
+            "Serving": "1 cup (170 g)",
+            "Calories": "381 "
+        },
+        {
+            "Food": "double rainbow",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "185 "
+        },
+        {
+            "Food": "drumsticks",
+            "Serving": "1 cone (141 g)",
+            "Calories": "360 "
+        },
+        {
+            "Food": "french vanilla ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "145 "
+        },
+        {
+            "Food": "friendly\u2019s",
+            "Serving": "1 scoop (66 g)",
+            "Calories": "140 "
+        },
+        {
+            "Food": "healthy choice",
+            "Serving": "1 bar (64 g)",
+            "Calories": "80 "
+        },
+        {
+            "Food": "hot fudge sundae",
+            "Serving": "1 sundae (179 g)",
+            "Calories": "333 "
+        },
+        {
+            "Food": "ice cream sandwich",
+            "Serving": "1 bar (112 g)",
+            "Calories": "265 "
+        },
+        {
+            "Food": "ice cream sundae",
+            "Serving": "1 sundae (178 g)",
+            "Calories": "253 "
+        },
+        {
+            "Food": "ice milk",
+            "Serving": "1 scoop (103 g)",
+            "Calories": "164 "
+        },
+        {
+            "Food": "magnolia",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "166 "
+        },
+        {
+            "Food": "magnum",
+            "Serving": "1 magnum (86 g)",
+            "Calories": "258 "
+        },
+        {
+            "Food": "magnum almond",
+            "Serving": "1 magnum (86 g)",
+            "Calories": "271 "
+        },
+        {
+            "Food": "magnum double caramel",
+            "Serving": "1 magnum (86 g)",
+            "Calories": "305 "
+        },
+        {
+            "Food": "magnum double chocolate",
+            "Serving": "1 magnum (86 g)",
+            "Calories": "327 "
+        },
+        {
+            "Food": "magnum gold",
+            "Serving": "1 magnum (85 g)",
+            "Calories": "290 "
+        },
+        {
+            "Food": "magnum white",
+            "Serving": "1 magnum (86 g)",
+            "Calories": "255 "
+        },
+        {
+            "Food": "mcflurry",
+            "Serving": "1 mcflurry (134 g)",
+            "Calories": "205 "
+        },
+        {
+            "Food": "mcflurry oreo",
+            "Serving": "1 mcflurry (183 g)",
+            "Calories": "340 "
+        },
+        {
+            "Food": "mini milk",
+            "Serving": "1 mini milk (25 g)",
+            "Calories": "30 "
+        },
+        {
+            "Food": "mint chocolate chip ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "172 "
+        },
+        {
+            "Food": "rocky road ice cream",
+            "Serving": "1 scoop (113 g)",
+            "Calories": "290 "
+        },
+        {
+            "Food": "schwan\u2019s",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "177 "
+        },
+        {
+            "Food": "smarties mcflurry",
+            "Serving": "1 mcflurry (202 g)",
+            "Calories": "400 "
+        },
+        {
+            "Food": "snickers ice cream",
+            "Serving": "1 bar (50 g)",
+            "Calories": "180 "
+        },
+        {
+            "Food": "soft serve",
+            "Serving": "1 cup (86 g)",
+            "Calories": "191 "
+        },
+        {
+            "Food": "solero",
+            "Serving": "1 solero (75 g)",
+            "Calories": "75 "
+        },
+        {
+            "Food": "strawberry ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "170 "
+        },
+        {
+            "Food": "strawberry sundae",
+            "Serving": "1 sundae (178 g)",
+            "Calories": "281 "
+        },
+        {
+            "Food": "sundae",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "155 "
+        },
+        {
+            "Food": "turkey hill",
+            "Serving": "1 sandwich (70 g)",
+            "Calories": "190 "
+        },
+        {
+            "Food": "vanilla cone",
+            "Serving": "1 cone (142 g)",
+            "Calories": "230 "
+        },
+        {
+            "Food": "vanilla ice cream",
+            "Serving": "1 scoop (72 g)",
+            "Calories": "145 "
+        },
+        {
+            "Food": "cannelloni",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "82 "
+        },
+        {
+            "Food": "capellini",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "198 "
+        },
+        {
+            "Food": "cappelletti",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "92 "
+        },
+        {
+            "Food": "cellophane noodles",
+            "Serving": "1 cup (140 g)",
+            "Calories": "491 "
+        },
+        {
+            "Food": "cheese tortellini",
+            "Serving": "1 cup (113 g)",
+            "Calories": "329 "
+        },
+        {
+            "Food": "dampfnudel",
+            "Serving": "1 dampfnudel (85 g)",
+            "Calories": "233 "
+        },
+        {
+            "Food": "dumpling dough",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "55 "
+        },
+        {
+            "Food": "durum wheat semolina",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "222 "
+        },
+        {
+            "Food": "egg noodles",
+            "Serving": "1 cup (38 g)",
+            "Calories": "146 "
+        },
+        {
+            "Food": "farfalle",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "fettuccine",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "198 "
+        },
+        {
+            "Food": "fusilli",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "197 "
+        },
+        {
+            "Food": "glass noodles",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "108 "
+        },
+        {
+            "Food": "lasagne sheets",
+            "Serving": "1 sheet (21 g)",
+            "Calories": "57 "
+        },
+        {
+            "Food": "linguine",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "low carb pasta",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "158 "
+        },
+        {
+            "Food": "macaroni",
+            "Serving": "1 cup (114 g)",
+            "Calories": "422 "
+        },
+        {
+            "Food": "manicotti",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "mostaccioli",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "103 "
+        },
+        {
+            "Food": "orecchiette",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "207 "
+        },
+        {
+            "Food": "orzo",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "penne",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "197 "
+        },
+        {
+            "Food": "penne rigate",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "207 "
+        },
+        {
+            "Food": "pierogi",
+            "Serving": "3 pierogi (100 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "ravioli",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "43 "
+        },
+        {
+            "Food": "rigatoni",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "198 "
+        },
+        {
+            "Food": "rotini",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "198 "
+        },
+        {
+            "Food": "shells",
+            "Serving": "1 cup (85 g)",
+            "Calories": "300 "
+        },
+        {
+            "Food": "shirataki noodles",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "10 "
+        },
+        {
+            "Food": "soy noodles",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "121 "
+        },
+        {
+            "Food": "spaetzle",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "206 "
+        },
+        {
+            "Food": "spaghetti",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "207 "
+        },
+        {
+            "Food": "spinach tortellini",
+            "Serving": "1 cup (102 g)",
+            "Calories": "320 "
+        },
+        {
+            "Food": "spirelli",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "206 "
+        },
+        {
+            "Food": "tagliatelle",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "207 "
+        },
+        {
+            "Food": "tortellini",
+            "Serving": "1 cup (113 g)",
+            "Calories": "329 "
+        },
+        {
+            "Food": "vermicelli",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "206 "
+        },
+        {
+            "Food": "whole grain noodles",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "194 "
+        },
+        {
+            "Food": "whole grain spaghetti",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "197 "
+        },
+        {
+            "Food": "ziti",
+            "Serving": "2 oz. (56 g)",
+            "Calories": "197 "
+        },
+        {
+            "Food": "bbq chicken pizza",
+            "Serving": "1 slice (132 g)",
+            "Calories": "309 "
+        },
+        {
+            "Food": "bbq pizza",
+            "Serving": "1 slice (140 g)",
+            "Calories": "314 "
+        },
+        {
+            "Food": "beef pizza",
+            "Serving": "1 slice (235 g)",
+            "Calories": "714 "
+        },
+        {
+            "Food": "bianca pizza",
+            "Serving": "1 slice (187 g)",
+            "Calories": "460 "
+        },
+        {
+            "Food": "buffalo chicken pizza",
+            "Serving": "1 slice (238 g)",
+            "Calories": "600 "
+        },
+        {
+            "Food": "calabrese pizza",
+            "Serving": "1 slice (108 g)",
+            "Calories": "254 "
+        },
+        {
+            "Food": "calzone",
+            "Serving": "1 calzone (364 g)",
+            "Calories": "841 "
+        },
+        {
+            "Food": "capricciosa pizza",
+            "Serving": "1 slice (74 g)",
+            "Calories": "192 "
+        },
+        {
+            "Food": "cheese pizza",
+            "Serving": "1 slice (63 g)",
+            "Calories": "168 "
+        },
+        {
+            "Food": "chicken pizza",
+            "Serving": "1 slice (132 g)",
+            "Calories": "309 "
+        },
+        {
+            "Food": "deep dish pizza",
+            "Serving": "1 slice (118 g)",
+            "Calories": "313 "
+        },
+        {
+            "Food": "dominos philly cheese steak pizza",
+            "Serving": "1 slice (159 g)",
+            "Calories": "356 "
+        },
+        {
+            "Food": "four cheese pizza",
+            "Serving": "1 slice (113 g)",
+            "Calories": "250 "
+        },
+        {
+            "Food": "goat cheese pizza",
+            "Serving": "1 slice (63 g)",
+            "Calories": "138 "
+        },
+        {
+            "Food": "grilled pizza",
+            "Serving": "1 slice (124 g)",
+            "Calories": "280 "
+        },
+        {
+            "Food": "hawaiian pizza",
+            "Serving": "1 slice (134 g)",
+            "Calories": "154 "
+        },
+        {
+            "Food": "margherita pizza",
+            "Serving": "1 slice (63 g)",
+            "Calories": "173 "
+        },
+        {
+            "Food": "mozzarella pizza",
+            "Serving": "1 slice (62 g)",
+            "Calories": "154 "
+        },
+        {
+            "Food": "mushroom pizza",
+            "Serving": "1 slice (288 g)",
+            "Calories": "611 "
+        },
+        {
+            "Food": "napoli pizza",
+            "Serving": "1 slice (123 g)",
+            "Calories": "248 "
+        },
+        {
+            "Food": "new york style pizza",
+            "Serving": "1 slice (103 g)",
+            "Calories": "174 "
+        },
+        {
+            "Food": "pepperoni pizza",
+            "Serving": "1 slice (71 g)",
+            "Calories": "181 "
+        },
+        {
+            "Food": "pizza dough",
+            "Serving": "2 oz. (57 g)",
+            "Calories": "130 "
+        },
+        {
+            "Food": "pizza hut stuffed crust pizza",
+            "Serving": "1 slice (149 g)",
+            "Calories": "380 "
+        },
+        {
+            "Food": "pizza hut supreme pizza",
+            "Serving": "1 slice (123 g)",
+            "Calories": "305 "
+        },
+        {
+            "Food": "pizza rolls",
+            "Serving": "1 roll (14 g)",
+            "Calories": "35 "
+        },
+        {
+            "Food": "quattro formaggi pizza",
+            "Serving": "1 slice (133 g)",
+            "Calories": "330 "
+        },
+        {
+            "Food": "red pepper pizza",
+            "Serving": "1 slice (86 g)",
+            "Calories": "165 "
+        },
+        {
+            "Food": "salami pizza",
+            "Serving": "1 slice (71 g)",
+            "Calories": "181 "
+        },
+        {
+            "Food": "sausage pizza",
+            "Serving": "1 slice (72 g)",
+            "Calories": "177 "
+        },
+        {
+            "Food": "seafood pizza",
+            "Serving": "1 slice (76 g)",
+            "Calories": "186 "
+        },
+        {
+            "Food": "shrimp pizza",
+            "Serving": "1 slice (91 g)",
+            "Calories": "190 "
+        },
+        {
+            "Food": "sicilian pizza",
+            "Serving": "1 slice (133 g)",
+            "Calories": "321 "
+        },
+        {
+            "Food": "spinach feta pizza",
+            "Serving": "1 slice (62 g)",
+            "Calories": "150 "
+        },
+        {
+            "Food": "spinach pizza",
+            "Serving": "1 slice (62 g)",
+            "Calories": "145 "
+        },
+        {
+            "Food": "stuffed crust pizza",
+            "Serving": "1 slice (149 g)",
+            "Calories": "380 "
+        },
+        {
+            "Food": "tarte flamb\u00e9e",
+            "Serving": "1 square (56 g)",
+            "Calories": "142 "
+        },
+        {
+            "Food": "thin crust pizza",
+            "Serving": "1 slice (60 g)",
+            "Calories": "157 "
+        },
+        {
+            "Food": "tuna pizza",
+            "Serving": "1 slice (125 g)",
+            "Calories": "318 "
+        },
+        {
+            "Food": "vegetable pizza",
+            "Serving": "1 slice (156 g)",
+            "Calories": "399 "
+        },
+        {
+            "Food": "vegetarian pizza",
+            "Serving": "1 slice (156 g)",
+            "Calories": "399 "
+        },
+        {
+            "Food": "veggie pizza",
+            "Serving": "1 slice (114 g)",
+            "Calories": "263 "
+        },
+        {
+            "Food": "white pizza",
+            "Serving": "1 slice (232 g)",
+            "Calories": "571 "
+        },
+        {
+            "Food": "acerola",
+            "Serving": "1 acerola (4.8 g)",
+            "Calories": "1 "
+        },
+        {
+            "Food": "asian pear",
+            "Serving": "1 pear (178 g)",
+            "Calories": "75 "
+        },
+        {
+            "Food": "breadfruit",
+            "Serving": "1/4 breadfruit (96 g)",
+            "Calories": "99 "
+        },
+        {
+            "Food": "cantaloupe melon",
+            "Serving": "1 wedge (69 g)",
+            "Calories": "23 "
+        },
+        {
+            "Food": "casaba melon",
+            "Serving": "1 wedge (125 g)",
+            "Calories": "35 "
+        },
+        {
+            "Food": "cherimoya",
+            "Serving": "1 cherimoya (235 g)",
+            "Calories": "176 "
+        },
+        {
+            "Food": "dragon fruit",
+            "Serving": "1 dragonfruit (200 g)",
+            "Calories": "120 "
+        },
+        {
+            "Food": "durian",
+            "Serving": "1 durian (602 g)",
+            "Calories": "885 "
+        },
+        {
+            "Food": "feijoa",
+            "Serving": "1 feijoa (42 g)",
+            "Calories": "23 "
+        },
+        {
+            "Food": "galia melon",
+            "Serving": "1 melon (130 g)",
+            "Calories": "30 "
+        },
+        {
+            "Food": "grapefruit",
+            "Serving": "1/2 grapefruit (123 g)",
+            "Calories": "52 "
+        },
+        {
+            "Food": "honeydew",
+            "Serving": "1 wedge (125 g)",
+            "Calories": "45 "
+        },
+        {
+            "Food": "kiwi",
+            "Serving": "1 kiwi (183 g)",
+            "Calories": "112 "
+        },
+        {
+            "Food": "kumquat",
+            "Serving": "1 kumquat (19 g)",
+            "Calories": "13 "
+        },
+        {
+            "Food": "lychee",
+            "Serving": "1 lychee (10 g)",
+            "Calories": "7 "
+        },
+        {
+            "Food": "mandarin oranges",
+            "Serving": "1 madarin orange (90 g)",
+            "Calories": "48 "
+        },
+        {
+            "Food": "mangosteen",
+            "Serving": "1 serving (80 g)",
+            "Calories": "58 "
+        },
+        {
+            "Food": "maracuya",
+            "Serving": "1 maracuya (18 g)",
+            "Calories": "17 "
+        },
+        {
+            "Food": "maraschino cherries",
+            "Serving": "1 cherry (5 g)",
+            "Calories": "8 "
+        },
+        {
+            "Food": "muskmelon",
+            "Serving": "1 wedge (69 g)",
+            "Calories": "23 "
+        },
+        {
+            "Food": "noni",
+            "Serving": "1 oz. (28.4 g)",
+            "Calories": "15 "
+        },
+        {
+            "Food": "passion fruit",
+            "Serving": "1 passion fruit (18 g)",
+            "Calories": "17 "
+        },
+        {
+            "Food": "pink grapefruit",
+            "Serving": "1/2 grapefruit (123 g)",
+            "Calories": "52 "
+        },
+        {
+            "Food": "plantain",
+            "Serving": "1 plantain (179 g)",
+            "Calories": "218 "
+        },
+        {
+            "Food": "pomelo",
+            "Serving": "1 pomelo (609 g)",
+            "Calories": "231 "
+        },
+        {
+            "Food": "prickly pear",
+            "Serving": "1 pad, peeled (19 g)",
+            "Calories": "8 "
+        },
+        {
+            "Food": "sapodilla",
+            "Serving": "1 sapodilla (170 g)",
+            "Calories": "141 "
+        },
+        {
+            "Food": "soursop fruit",
+            "Serving": "1 soursop fruit (625 g)",
+            "Calories": "413 "
+        },
+        {
+            "Food": "star fruit",
+            "Serving": "1 starfruit (91 g)",
+            "Calories": "28 "
+        },
+        {
+            "Food": "arby\u2019s grand turkey club",
+            "Serving": "1 sandwich (233 g)",
+            "Calories": "489 "
+        },
+        {
+            "Food": "arby\u2019s reuben",
+            "Serving": "1 sandwich (308 g)",
+            "Calories": "641 "
+        },
+        {
+            "Food": "arby\u2019s roast beef classic",
+            "Serving": "1 burger (154 g)",
+            "Calories": "360 "
+        },
+        {
+            "Food": "arby\u2019s roast beef max",
+            "Serving": "1 burger (154 g)",
+            "Calories": "360 "
+        },
+        {
+            "Food": "bbq rib",
+            "Serving": "1 rib (67 g)",
+            "Calories": "142 "
+        },
+        {
+            "Food": "bean burrito",
+            "Serving": "1 burrito (190 g)",
+            "Calories": "380 "
+        },
+        {
+            "Food": "big n\u2019 tasty",
+            "Serving": "1 sandwich (232 g)",
+            "Calories": "517 "
+        },
+        {
+            "Food": "bratwurst",
+            "Serving": "1 piece (85 g)",
+            "Calories": "283 "
+        },
+        {
+            "Food": "burger king angry whopper",
+            "Serving": "1 burger (290 g)",
+            "Calories": "740 "
+        },
+        {
+            "Food": "burger king double whopper",
+            "Serving": "1 burger (374 g)",
+            "Calories": "894 "
+        },
+        {
+            "Food": "burger king double whopper with cheese",
+            "Serving": "1 sandwich (399 g)",
+            "Calories": "994 "
+        },
+        {
+            "Food": "burger king original chicken sandwich",
+            "Serving": "1 sandwich (219 g)",
+            "Calories": "659 "
+        },
+        {
+            "Food": "burger king premium alaskan fish sandwich",
+            "Serving": "1 burger (228 g)",
+            "Calories": "591 "
+        },
+        {
+            "Food": "burger king triple whopper",
+            "Serving": "1 burger (547 g)",
+            "Calories": "1471 "
+        },
+        {
+            "Food": "burger king whopper",
+            "Serving": "1 burger (291 g)",
+            "Calories": "672 "
+        },
+        {
+            "Food": "burger king whopper jr.",
+            "Serving": "1 burger (148 g)",
+            "Calories": "346 "
+        },
+        {
+            "Food": "burger king whopper with cheese",
+            "Serving": "1 burger (315 g)",
+            "Calories": "759 "
+        },
+        {
+            "Food": "cheeseburger",
+            "Serving": "1 burger (156 g)",
+            "Calories": "410 "
+        },
+        {
+            "Food": "chicken breast",
+            "Serving": "1 piece (71 g)",
+            "Calories": "116 "
+        },
+        {
+            "Food": "chicken fajita",
+            "Serving": "1 sandwich (222 g)",
+            "Calories": "326 "
+        },
+        {
+            "Food": "chicken mcnuggets",
+            "Serving": "1 nugget (16 g)",
+            "Calories": "48 "
+        },
+        {
+            "Food": "chicken nuggets",
+            "Serving": "1 piece (20 g)",
+            "Calories": "59 "
+        },
+        {
+            "Food": "chicken pizziola",
+            "Serving": "1 sandwich (320 g)",
+            "Calories": "451 "
+        },
+        {
+            "Food": "chicken sandwich",
+            "Serving": "1 sandwich (170 g)",
+            "Calories": "410 "
+        },
+        {
+            "Food": "chicken teriyaki sandwich",
+            "Serving": "1 sandwich (266 g)",
+            "Calories": "367 "
+        },
+        {
+            "Food": "chicken wings",
+            "Serving": "1 piece (29 g)",
+            "Calories": "94 "
+        },
+        {
+            "Food": "chop suey",
+            "Serving": "1 serving (340 g)",
+            "Calories": "585 "
+        },
+        {
+            "Food": "curly fries",
+            "Serving": "1 serving (128 g)",
+            "Calories": "398 "
+        },
+        {
+            "Food": "double cheeseburger",
+            "Serving": "1 burger (155 g)",
+            "Calories": "414 "
+        },
+        {
+            "Food": "egg roll",
+            "Serving": "1 roll (80 g)",
+            "Calories": "200 "
+        },
+        {
+            "Food": "falafel",
+            "Serving": "1 patty (17 g)",
+            "Calories": "57 "
+        },
+        {
+            "Food": "filet-o-fish",
+            "Serving": "1 sandwich (142 g)",
+            "Calories": "400 "
+        },
+        {
+            "Food": "fish sandwich",
+            "Serving": "1 sandwich (158 g)",
+            "Calories": "431 "
+        },
+        {
+            "Food": "french fries",
+            "Serving": "1 serving (71 g)",
+            "Calories": "222 "
+        },
+        {
+            "Food": "grilled chicken salad",
+            "Serving": "1 salad (305 g)",
+            "Calories": "268 "
+        },
+        {
+            "Food": "ham sandwich",
+            "Serving": "1 sandwich (146 g)",
+            "Calories": "352 "
+        },
+        {
+            "Food": "hamburger",
+            "Serving": "1 sandwich (110 g)",
+            "Calories": "279 "
+        },
+        {
+            "Food": "hot dog",
+            "Serving": "1 hot dog (116 g)",
+            "Calories": "312 "
+        },
+        {
+            "Food": "italian bmt",
+            "Serving": "1 sandwich (224 g)",
+            "Calories": "410 "
+        },
+        {
+            "Food": "lasagna",
+            "Serving": "1 piece (130 g)",
+            "Calories": "172 "
+        },
+        {
+            "Food": "mcdonald\u2019s big mac",
+            "Serving": "1 burger (219 g)",
+            "Calories": "561 "
+        },
+        {
+            "Food": "mcdonald\u2019s cheeseburger",
+            "Serving": "1 sandwich (114 g)",
+            "Calories": "300 "
+        },
+        {
+            "Food": "mcdonald\u2019s chicken nuggets",
+            "Serving": "1 nugget (16 g)",
+            "Calories": "48 "
+        },
+        {
+            "Food": "mcdonald\u2019s double cheeseburger",
+            "Serving": "1 burger (155 g)",
+            "Calories": "437 "
+        },
+        {
+            "Food": "mcdonald\u2019s filet-o-fish",
+            "Serving": "1 sandwich (142 g)",
+            "Calories": "391 "
+        },
+        {
+            "Food": "mcdonald\u2019s mcchicken",
+            "Serving": "1 burger (143 g)",
+            "Calories": "359 "
+        },
+        {
+            "Food": "mcdonald\u2019s mcdouble",
+            "Serving": "1 burger (160 g)",
+            "Calories": "403 "
+        },
+        {
+            "Food": "mcdonald\u2019s mcmuffi egg",
+            "Serving": "1 burger (129 g)",
+            "Calories": "290 "
+        },
+        {
+            "Food": "mcdonald\u2019s mcrib",
+            "Serving": "1 sandwich (170 g)",
+            "Calories": "451 "
+        },
+        {
+            "Food": "mcdonald\u2019s mighty wings",
+            "Serving": "1 wing (31 g)",
+            "Calories": "95 "
+        },
+        {
+            "Food": "mcrib",
+            "Serving": "1 sandwich (170 g)",
+            "Calories": "451 "
+        },
+        {
+            "Food": "meatball sandwich",
+            "Serving": "1 sandwich (299 g)",
+            "Calories": "481 "
+        },
+        {
+            "Food": "nachos with cheese",
+            "Serving": "10 nachos (188 g)",
+            "Calories": "575 "
+        },
+        {
+            "Food": "onion rings",
+            "Serving": "1 ring (6.5 g)",
+            "Calories": "25 "
+        },
+        {
+            "Food": "poutine",
+            "Serving": "1 serving (225 g)",
+            "Calories": "511 "
+        },
+        {
+            "Food": "smoked salmon",
+            "Serving": "1 oz. (28.35 g)",
+            "Calories": "44 "
+        },
+        {
+            "Food": "spicy italian",
+            "Serving": "1 sandwich (219 g)",
+            "Calories": "480 "
+        },
+        {
+            "Food": "subway club sandwich",
+            "Serving": "1 sandwich (238 g)",
+            "Calories": "312 "
+        },
+        {
+            "Food": "tortilla wrap",
+            "Serving": "1 wrap (63 g)",
+            "Calories": "171 "
+        },
+        {
+            "Food": "tuna",
+            "Serving": "1 oz. (28.35 g)",
+            "Calories": "24 "
+        },
+        {
+            "Food": "turkey",
+            "Serving": "1 oz. (28.35 g)",
+            "Calories": "29 "
+        },
+        {
+            "Food": "veggie burger",
+            "Serving": "1 burger (215 g)",
+            "Calories": "389 "
+        },
+        {
+            "Food": "veggie delight",
+            "Serving": "1 sandwich (166 g)",
+            "Calories": "229 "
+        },
+        {
+            "Food": "veggie patty",
+            "Serving": "1 sandwich (247 g)",
+            "Calories": "963 "
+        },
+        {
+            "Food": "wendy\u2019s baconator",
+            "Serving": "1 burger (276 g)",
+            "Calories": "839 "
+        },
+        {
+            "Food": "wendy\u2019s jr. bacon cheeseburger",
+            "Serving": "1 burger (161 g)",
+            "Calories": "420 "
+        },
+        {
+            "Food": "wendy\u2019s jr. cheeseburger",
+            "Serving": "1 burger (129 g)",
+            "Calories": "290 "
+        },
+        {
+            "Food": "wendy\u2019s son of baconator",
+            "Serving": "1 burger (218 g)",
+            "Calories": "700 "
+        },
+        {
+            "Food": "whopper",
+            "Serving": "1 burger (291 g)",
+            "Calories": "672 "
+        },
+        {
+            "Food": "zinger",
+            "Serving": "1 sandwich (202 g)",
+            "Calories": "517 "
+        },
+        {
+            "Food": "zinger burger",
+            "Serving": "1 sandwich (202 g)",
+            "Calories": "517 "
+        }
+    ]
+}
